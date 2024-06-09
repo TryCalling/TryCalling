@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Mobile App Android**
 
-- 👨‍💻 All of my projects are available at [GitHub and GitLab](GitHub and GitLab)
+- 👨‍💻 All of my projects are available at (GitHub and GitLab)
 
-- 💬 Ask me about **Can contact me via Telegram or WeChat**
+- 💬 Ask me about **Codes and general knowledge about Android others...**
 
 - 📫 How to reach me **trycalling1234@gmail.com**
 
