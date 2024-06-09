@@ -1,6 +1,14 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="100%">
 <h1 align="center">Hi👋 Everyone, I'm Try</h1>
-<h3 align="center">A passionate android developer from Cambodian. and I'm studying at Royal University of Phnom Penh, My major is Information Technology Engineering</h3>
+<h3 style="font-family: 'Poppins', sans-serif; font-size: 6px; line-height: 1.6; color: #333;">I'm a passionate Android developer from Cambodia, currently studying at the Royal University of Phnom Penh. My major is Information Technology Engineering, and I'm deeply invested in the world of mobile app development. My journey in tech is driven by a relentless curiosity and a desire to create innovative solutions that make a difference. <br><br>
+
+I have been honing my skills in Android development, and I'm always eager to learn and explore new technologies. My academic background has provided me with a solid foundation in various aspects of IT, but my true passion lies in creating seamless and intuitive mobile applications.
+
+In addition to my studies, I am actively working on various Android projects and constantly seeking opportunities to collaborate with like-minded individuals and organizations. My goal is to contribute to the tech community in Cambodia and beyond, leveraging my skills to develop applications that solve real-world problems.
+
+When I'm not coding, you can find me exploring the latest trends in technology, participating in hackathons, or engaging with the vibrant developer community. I believe in continuous learning and am always on the lookout for new challenges that can push my boundaries and help me grow both personally and professionally.
+
+Feel free to connect with me to discuss Android development, potential collaborations, or just to share insights about the exciting world of technology!</h3>
 <img align="right" alt="Coding" width="383" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952g1osz28hwqui5piox2wfpmh8cdc7a1hjbm43bows&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trycalling&label=Profile%20views&color=0e75b6&style=flat" alt="trycalling" /> </p>
