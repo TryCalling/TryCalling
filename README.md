@@ -1,7 +1,7 @@
 ![Header](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Try</h1>
-<h3 align="center">Android & Backend Developer | IT Engineer | Passionate about Innovation</h3>
+<h3 align="center">Android & Backend Developer | IT Engineering | Passionate about Innovation</h3>
 
 <p align="center">
   <a href="https://twitter.com/trycalling1"><img src="https://img.shields.io/twitter/follow/trycalling1?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
@@ -29,6 +29,7 @@
 
 #### 📱 Mobile Development:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
