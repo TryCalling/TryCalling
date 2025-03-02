@@ -19,7 +19,7 @@
 - 💼 Currently working at **Hattha Bank**
 - 🌱 Exploring **Cloud Computing, DevOps, and AI-powered mobile applications**
 - 🔥 Passionate about **Scalable Systems, API Development, and Performance Optimization**
-- 👨‍💻 My projects are available on **[GitHub](https://github.com/trycalling)** and **[GitLab](https://gitlab.com/trycalling)**
+- 👨‍💻 My projects are available on **[GitHub](https://github.com/trycalling)** and **[GitLab](https://gitlab.com/trydevelopment)**
 - 💬 Ask me about **Android, Backend, APIs, and Cloud Technologies**
 - 📧 Contact me at **trycalling1234@gmail.com**
 
@@ -73,7 +73,7 @@
 <p>
 <a href="https://twitter.com/trycalling1" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/trycoding" target="blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<a href="https://www.facebook.com/try.calling.7" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/try.calling.7](https://web.facebook.com/profile.php?id=100092326651375)" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/try_solo1" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.youtube.com/c/trycalling4009" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://discord.gg/ryk3r" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
