@@ -1,7 +1,7 @@
 ![Header](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Try</h1>
-<h3 align="center">Android & Backend Developer | IT Engineering | Passionate about Innovation</h3>
+<h3 align="center">Android & Backend Developer | IT Engineer | Passionate about Innovation</h3>
 
 <p align="center">
   <a href="https://twitter.com/trycalling1"><img src="https://img.shields.io/twitter/follow/trycalling1?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
@@ -11,25 +11,28 @@
 
 ---
 
-<img align="right" alt="Coding" width="380px" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952g1osz28hwqui5piox2wfpmh8cdc7a1hjbm43bows&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400px" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952g1osz28hwqui5piox2wfpmh8cdc7a1hjbm43bows&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-### 🛠 About Me
-- 🚀 Android & Backend Developer with expertise in **Kotlin, Java, Spring Boot, and Node.js**
-- 🎓 Studied **ITE, Faculty of Engineering.** at **Royal University of Phnom Penh**
-- 💼 Working at **Hattha Bank**
-- 🌱 Currently exploring **Cloud Computing, DevOps, and AI-powered mobile applications**
-- 🏆 Passionate about **Scalable Systems, APIs, and Modern Backend Architectures**
-- 👨‍💻 All my projects are available on **[GitHub](https://github.com/trycalling)** and **[GitLab](https://gitlab.com/trycalling)**
-- 💬 Ask me about **Android, Backend Development, Databases, APIs, and Performance Optimization**
-- 📧 Reach me at **trycalling1234@gmail.com**
+### 🚀 About Me
+- 💻 Android & Backend Developer with expertise in **Kotlin, Java, Spring Boot, and Node.js**
+- 🎓 IT Engineering Student at **Royal University of Phnom Penh**
+- 💼 Currently working at **Hattha Bank**
+- 🌱 Exploring **Cloud Computing, DevOps, and AI-powered mobile applications**
+- 🔥 Passionate about **Scalable Systems, API Development, and Performance Optimization**
+- 👨‍💻 My projects are available on **[GitHub](https://github.com/trycalling)** and **[GitLab](https://gitlab.com/trycalling)**
+- 💬 Ask me about **Android, Backend, APIs, and Cloud Technologies**
+- 📧 Contact me at **trycalling1234@gmail.com**
 
 ---
 
 ### ⚡ Tech Stack & Tools
 
-#### 👨‍💻 Programming Languages & Frameworks:
+#### 📱 Mobile Development:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### 🖥️ Backend Development:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -39,7 +42,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 #### 🛠️ DevOps & Tools:
@@ -52,13 +54,17 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trycalling&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trycalling&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trycalling&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trycalling&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trycalling&" alt="GitHub Streak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trycalling&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trycalling&theme=dark" alt="GitHub Streak" /></p>
 
 ---
 
