@@ -56,44 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trycalling&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trycalling&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trycalling&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trycalling&theme=dark" alt="GitHub Streak" /></p>
-
-<p>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trycalling&theme=github_dark" alt="Profile Details" />
-</p>
-
-<p>
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=trycalling&theme=onedark&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=trycalling&theme=dark&layout=compact" alt="Coding Stats (WakaTime)" />
-</p>
-
----
-
-### 🚀 Contribution Stats  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=trycalling&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</p>
-
-### 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=trycalling&theme=dark" alt="GitHub Achievements" />
-</p>
-
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trycalling&theme=react-dark" alt="GitHub Activity Graph"/>
@@ -104,6 +66,10 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trycalling&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+
+<p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trycalling&theme=github_dark" alt="Profile Details" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trycalling&theme=dark" alt="GitHub Streak" /></p>
 
