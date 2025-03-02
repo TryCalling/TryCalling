@@ -81,6 +81,42 @@
 <a href="https://developers.google.com/profile/u/trycoding" target="blank"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
 </p>
 
+### 🔗 Connect with Me:
+<p>
+<a href="https://twitter.com/trycalling1" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/21700470/trycoding" target="blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://web.facebook.com/profile.php?id=100092326651375)" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/try_calling1/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/c/trycalling4009" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://discord.gg/ryk3r" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://developers.google.com/profile/trycalling1" target="blank"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+</p>
+
+### 💻 Tech Stack:
+<p>
+<a href="https://reactjs.org/" target="blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+<a href="https://nodejs.org/" target="blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.java.com/" target="blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://php.net/" target="blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https://www.mongodb.com/" target="blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+</p>
+
+### 📊 GitHub Stats:
+<p>
+<a href="https://github.com/yourusername?tab=repositories" target="blank"><img src="https://img.shields.io/badge/Total%20Contributions-81-orange?style=for-the-badge"></a>
+<a href="https://github.com/yourusername?tab=stars" target="blank"><img src="https://img.shields.io/badge/Total%20Stars-13-yellow?style=for-the-badge"></a>
+<a href="https://github.com/yourusername?tab=commits" target="blank"><img src="https://img.shields.io/badge/Total%20Commits-48-green?style=for-the-badge"></a>
+<a href="https://github.com/yourusername?tab=prs" target="blank"><img src="https://img.shields.io/badge/Total%20PRs-1-blue?style=for-the-badge"></a>
+</p>
+
+### 📜 Pinned Repositories:
+<p>
+<a href="https://github.com/yourusername/repo1" target="blank"><img src="https://img.shields.io/badge/Repo%201-Active-green?style=for-the-badge"></a>
+<a href="https://github.com/yourusername/repo2" target="blank"><img src="https://img.shields.io/badge/Repo%202-In%20Progress-yellow?style=for-the-badge"></a>
+</p>
+
 
 ---
 
