@@ -1,7 +1,7 @@
 ![Header](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Try</h1>
-<h3 align="center">Android & Backend Developer | IT Engineer | Passionate about Innovation</h3>
+<h3 align="center">Android & Backend Developer | IT Engineering | Passionate about Innovation</h3>
 
 <p align="center">
   <a href="https://twitter.com/trycalling1"><img src="https://img.shields.io/twitter/follow/trycalling1?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
@@ -15,7 +15,7 @@
 
 ### 🛠 About Me
 - 🚀 Android & Backend Developer with expertise in **Kotlin, Java, Spring Boot, and Node.js**
-- 🎓 Studying **IT Engineering** at **Royal University of Phnom Penh**
+- 🎓 Studied **ITE, Faculty of Engineering. ** at **Royal University of Phnom Penh**
 - 💼 Working at **Hattha Bank**
 - 🌱 Currently exploring **Cloud Computing, DevOps, and AI-powered mobile applications**
 - 🏆 Passionate about **Scalable Systems, APIs, and Modern Backend Architectures**
