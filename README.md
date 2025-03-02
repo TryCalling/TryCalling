@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 - 💻 Android & Backend Developer with expertise in **Kotlin, Java, Spring Boot, and Node.js**
-- 🎓 IT Engineering Student at **Royal University of Phnom Penh**
+- 🎓 Studied **ITE, Faculty of Engineering. at Royal University of Phnom Penh**
 - 💼 Currently working at **Hattha Bank**
 - 🌱 Exploring **Cloud Computing, DevOps, and AI-powered mobile applications**
 - 🔥 Passionate about **Scalable Systems, API Development, and Performance Optimization**
