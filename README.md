@@ -1,11 +1,12 @@
 ![Header](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Try</h1>
-<h3 align="center">Android & Backend Developer | IT Engineering | Passionate about Innovation</h3>
+<h3 align="center">Android & Backend Developer | IT Engineer | Passionate about Innovation</h3>
 
 <p align="center">
   <a href="https://twitter.com/trycalling1"><img src="https://img.shields.io/twitter/follow/trycalling1?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
   <a href="https://github.com/trycalling"><img src="https://img.shields.io/github/followers/trycalling?label=Followers&style=for-the-badge" alt="GitHub Followers" /></a>
+  <a href="mailto:trycalling1234@gmail.com"><img src="https://img.shields.io/badge/Email-trycalling1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -16,10 +17,10 @@
 - 🚀 Android & Backend Developer with expertise in **Kotlin, Java, Spring Boot, and Node.js**
 - 🎓 Studying **IT Engineering** at **Royal University of Phnom Penh**
 - 💼 Working at **Hattha Bank**
-- 🌱 Currently learning **Cloud Computing & DevOps**
-- 🏆 Passionate about **Mobile & Backend Systems, APIs, and Database Design**
+- 🌱 Currently exploring **Cloud Computing, DevOps, and AI-powered mobile applications**
+- 🏆 Passionate about **Scalable Systems, APIs, and Modern Backend Architectures**
 - 👨‍💻 All my projects are available on **[GitHub](https://github.com/trycalling)** and **[GitLab](https://gitlab.com/trycalling)**
-- 💬 Ask me about **Android, Backend Development, Databases, and APIs**
+- 💬 Ask me about **Android, Backend Development, Databases, APIs, and Performance Optimization**
 - 📧 Reach me at **trycalling1234@gmail.com**
 
 ---
@@ -32,18 +33,21 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 #### 🛢️ Databases & Cloud:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 #### 🛠️ DevOps & Tools:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
@@ -70,4 +74,4 @@
 
 ---
 
-🚀 **Let's Build & Innovate Together!**
+🚀 **Let's Build & Innovate Together!** 🌍
