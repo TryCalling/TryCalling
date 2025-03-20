@@ -33,7 +33,13 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Lynx Framework](https://img.shields.io/badge/Lynx_Framework-1E90FF?style=for-the-badge&logo=lynx&logoColor=white)
-![Lynx Framework](https://lf-lynx.tiktok-cdns.com/obj/lynx-artifacts-oss-sg/lynx-website/assets/lynx-light-logo.svg)
+![Lynx Framework](https://img.shields.io/badge/Lynx_Framework-1E90FF?style=for-the-badge&logo=lynx&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Lynx_Framework-1E90FF?style=for-the-badge" alt="Lynx Framework">
+  <img src="https://lf-lynx.tiktok-cdns.com/obj/lynx-artifacts-oss-sg/lynx-website/assets/lynx-light-logo.svg" alt="Lynx Framework Logo" width="90">
+</p>
+
 
 <img src="https://lf-lynx.tiktok-cdns.com/obj/lynx-artifacts-oss-sg/lynx-website/assets/lynx-light-logo.svg" alt="logo" id="logo" class="rspress-logo hidden dark:block">
 
