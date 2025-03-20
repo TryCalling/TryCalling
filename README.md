@@ -22,7 +22,7 @@
 - 🔥 Passionate about **Scalable Systems, API Development, and Performance Optimization**
 - 👨‍💻 My projects are available on **[GitHub](https://github.com/trycalling)** and **[GitLab](https://gitlab.com/trydevelopment)**
 - 💬 Ask me about **Android, Backend, APIs, and Cloud Technologies**
-- 📧 Contact me at **trycalling1234@gmail.com**
+- 📧 Contact me via **[Email](trycalling1234@gmail.com)**
 
 ---
 
