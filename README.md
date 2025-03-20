@@ -16,6 +16,7 @@
 ### 🚀 About Me
 - 💻 Android & Backend Developer with expertise in **Kotlin, Java, Spring Boot, and Node.js**
 - 🎓 Studied **ITE, Faculty of Engineering. at Royal University of Phnom Penh**
+- 🎓 Graguated by Google Developer **[Android Dev](https://g.dev/trycoding)**
 - 💼 Currently working at **Hattha Bank**
 - 🌱 Exploring **Cloud Computing, DevOps, and AI-powered mobile applications**
 - 🔥 Passionate about **Scalable Systems, API Development, and Performance Optimization**
