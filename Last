@@ -75,3 +75,14 @@
 ---
 
 🚀 **Let's Build & Innovate Together!** 🌍
+
+{
+  "status": "SUCCESS",
+  "message": "Admin login successful",
+  "authToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9... (example JWT token)", // If you are using JWT for authentication
+  "adminUserDetails": { // Optional:  You might include some basic admin user details
+    "email": "admin@example.com",
+    "role": "ADMIN"
+  },
+  "traceId": "e7f8g9h0-1a2b-3c4d-5e6f-7a8b9c0d1e2f"
+}
