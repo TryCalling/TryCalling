@@ -12,9 +12,11 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageButton
 import android.widget.TextView
+import android.widget.Toast
 import androidx.camera.core.*
 import androidx.camera.lifecycle.ProcessCameraProvider
 import androidx.camera.view.PreviewView
@@ -155,6 +157,8 @@ class ScanQRFragment : Fragment() {
         val nameView = dialogView.findViewById<TextView>(R.id.qrName)
         val locationView = dialogView.findViewById<TextView>(R.id.qrLocation)
         val proxyView = dialogView.findViewById<TextView>(R.id.qrProxy)
+        val amountInput = dialogView.findViewById<EditText>(R.id.editAmount)
+        val confirmBtn = dialogView.findViewById<Button>(R.id.btnConfirm)
 
         bankView.text = "Bank: ${data["bank"] ?: "N/A"}"
         nameView.text = "Name: ${data["name"] ?: "N/A"}"
@@ -164,6 +168,17 @@ class ScanQRFragment : Fragment() {
         val bottomSheet = BottomSheetDialog(requireContext())
         bottomSheet.setContentView(dialogView)
         bottomSheet.show()
+
+        confirmBtn.setOnClickListener {
+            val amount = amountInput.text.toString().toDoubleOrNull()
+            if (amount != null && amount > 0) {
+                bottomSheet.dismiss()
+                Toast.makeText(requireContext(), "Mock Transfer of \$$amount to ${data["name"]}", Toast.LENGTH_LONG).show()
+                // You can add API call here
+            } else {
+                Toast.makeText(requireContext(), "Enter valid amount", Toast.LENGTH_SHORT).show()
+            }
+        }
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
