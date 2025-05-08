@@ -1,0 +1,197 @@
+package com.example.financeapp_android.fragment
+
+import android.Manifest
+import android.app.Activity
+import android.content.Intent
+import android.content.pm.PackageManager
+import android.graphics.BitmapFactory
+import android.net.Uri
+import android.os.Bundle
+import android.provider.MediaStore
+import android.util.Log
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.EditText
+import android.widget.ImageButton
+import android.widget.TextView
+import androidx.camera.core.*
+import androidx.camera.lifecycle.ProcessCameraProvider
+import androidx.camera.view.PreviewView
+import androidx.core.app.ActivityCompat
+import androidx.core.content.ContextCompat
+import androidx.fragment.app.Fragment
+import com.example.financeapp_android.R
+import com.google.android.material.bottomsheet.BottomSheetDialog
+import com.google.mlkit.vision.barcode.BarcodeScanning
+import com.google.mlkit.vision.barcode.common.Barcode
+import com.google.mlkit.vision.common.InputImage
+import java.util.concurrent.Executors
+
+class ScanQRFragment : Fragment() {
+
+    private lateinit var previewView: PreviewView
+    private lateinit var flashlightButton: ImageButton
+    private lateinit var browseQRButton: ImageButton
+    private var camera: Camera? = null
+    private val executor = Executors.newSingleThreadExecutor()
+    private val CAMERA_PERMISSION_REQUEST_CODE = 101
+    private val PICK_IMAGE_REQUEST = 102
+
+    override fun onCreateView(
+        inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?
+    ): View? {
+        val view = inflater.inflate(R.layout.fragment_scan_qr, container, false)
+
+        previewView = view.findViewById(R.id.previewView)
+        flashlightButton = view.findViewById(R.id.btnFlashlight)
+        browseQRButton = view.findViewById(R.id.btnBrowseQR)
+
+        flashlightButton.setOnClickListener {
+            camera?.cameraControl?.enableTorch(!(camera?.cameraInfo?.torchState?.value == TorchState.ON))
+        }
+
+        browseQRButton.setOnClickListener {
+            val intent = Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI)
+            startActivityForResult(intent, PICK_IMAGE_REQUEST)
+        }
+
+        if (ContextCompat.checkSelfPermission(requireContext(), Manifest.permission.CAMERA)
+            == PackageManager.PERMISSION_GRANTED
+        ) {
+            previewView.post { startCamera() }
+        } else {
+            ActivityCompat.requestPermissions(
+                requireActivity(),
+                arrayOf(Manifest.permission.CAMERA),
+                CAMERA_PERMISSION_REQUEST_CODE
+            )
+        }
+
+        return view
+    }
+
+    private fun startCamera() {
+        val cameraProviderFuture = ProcessCameraProvider.getInstance(requireContext())
+
+        cameraProviderFuture.addListener({
+            val cameraProvider = cameraProviderFuture.get()
+
+            val preview = Preview.Builder().build().also {
+                it.setSurfaceProvider(previewView.surfaceProvider)
+            }
+
+            val analysis = ImageAnalysis.Builder().build().also {
+                it.setAnalyzer(executor, BarcodeAnalyzer())
+            }
+
+            val cameraSelector = CameraSelector.DEFAULT_BACK_CAMERA
+
+            try {
+                cameraProvider.unbindAll()
+                camera = cameraProvider.bindToLifecycle(
+                    viewLifecycleOwner, cameraSelector, preview, analysis
+                )
+            } catch (e: Exception) {
+                Log.e("ScanQR", "Camera binding failed", e)
+            }
+
+        }, ContextCompat.getMainExecutor(requireContext()))
+    }
+
+    inner class BarcodeAnalyzer : ImageAnalysis.Analyzer {
+        private val scanner = BarcodeScanning.getClient()
+
+        override fun analyze(imageProxy: ImageProxy) {
+            val mediaImage = imageProxy.image ?: return
+            val image = InputImage.fromMediaImage(mediaImage, imageProxy.imageInfo.rotationDegrees)
+
+            scanner.process(image)
+                .addOnSuccessListener { barcodes ->
+                    for (barcode in barcodes) {
+                        handleBarcode(barcode)
+                    }
+                }
+                .addOnFailureListener { Log.e("ScanQR", "Barcode scan failed", it) }
+                .addOnCompleteListener { imageProxy.close() }
+        }
+    }
+
+    private fun handleBarcode(barcode: Barcode) {
+        val rawValue = barcode.rawValue ?: return
+        Log.d("ScanQR", "Scanned QR: $rawValue")
+        val parsed = parseKHQR(rawValue)
+        showTransactionDialog(parsed)
+    }
+
+    private fun parseKHQR(data: String): Map<String, String> {
+        val map = mutableMapOf<String, String>()
+
+        Regex("01(\d{2})(.*?)").find(data)?.let {
+            val length = it.groupValues[1].toIntOrNull() ?: 0
+            val value = it.groupValues[2].take(length)
+            map["proxy"] = value
+        }
+        Regex("59(\d{2})(.*?)").find(data)?.let {
+            val nameLength = it.groupValues[1].toIntOrNull() ?: 0
+            map["name"] = it.groupValues[2].take(nameLength)
+        }
+        Regex("60(\d{2})(.*?)").find(data)?.let {
+            val locLength = it.groupValues[1].toIntOrNull() ?: 0
+            map["location"] = it.groupValues[2].take(locLength)
+        }
+        Regex("52(\d{2})(.*?)").find(data)?.let {
+            val bankCode = it.groupValues[2].take(4)
+            map["bank"] = bankCode
+        }
+
+        return map
+    }
+
+    private fun showTransactionDialog(data: Map<String, String>) {
+        val dialogView = layoutInflater.inflate(R.layout.dialog_qr_info, null)
+
+        val bankView = dialogView.findViewById<TextView>(R.id.qrBank)
+        val nameView = dialogView.findViewById<TextView>(R.id.qrName)
+        val locationView = dialogView.findViewById<TextView>(R.id.qrLocation)
+        val proxyView = dialogView.findViewById<TextView>(R.id.qrProxy)
+
+        bankView.text = "Bank: ${data["bank"] ?: "N/A"}"
+        nameView.text = "Name: ${data["name"] ?: "N/A"}"
+        locationView.text = "Location: ${data["location"] ?: "N/A"}"
+        proxyView.text = "Proxy: ${data["proxy"] ?: "N/A"}"
+
+        val bottomSheet = BottomSheetDialog(requireContext())
+        bottomSheet.setContentView(dialogView)
+        bottomSheet.show()
+    }
+
+    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+        super.onActivityResult(requestCode, resultCode, data)
+        if (requestCode == PICK_IMAGE_REQUEST && resultCode == Activity.RESULT_OK) {
+            val selectedImage: Uri? = data?.data
+            selectedImage?.let {
+                val bitmap = BitmapFactory.decodeStream(requireContext().contentResolver.openInputStream(it))
+                val image = InputImage.fromBitmap(bitmap, 0)
+                BarcodeScanning.getClient().process(image)
+                    .addOnSuccessListener { barcodes ->
+                        for (barcode in barcodes) {
+                            handleBarcode(barcode)
+                        }
+                    }
+                    .addOnFailureListener { Log.e("ScanQR", "Failed to scan from gallery", it) }
+            }
+        }
+    }
+
+    override fun onRequestPermissionsResult(
+        requestCode: Int, permissions: Array<out String>, grantResults: IntArray
+    ) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults)
+        if (requestCode == CAMERA_PERMISSION_REQUEST_CODE && grantResults.isNotEmpty()
+            && grantResults[0] == PackageManager.PERMISSION_GRANTED
+        ) {
+            previewView.post { startCamera() }
+        }
+    }
+}
