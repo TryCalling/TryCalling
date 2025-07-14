@@ -1,25 +1,38 @@
+<table>
   <tr>
     <td width="180" valign="top" align="center">
-      <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 10px;" /><br/>
-      <br/>
+      <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 10px;" /><br/><br/>
       <strong>📞 Contact</strong><br/>
       📧 trycalling1234@gmail.com<br/>
-      🌍 Phnom Penh, Cambodia
+      🌍 Phnom Penh, Cambodia<br/>
+      💼 [LinkedIn](https://www.linkedin.com/in/sroytry-neang-ab2048256/)
     </td>
     <td valign="top" style="padding-left: 20px;">
-      <h2 style="color: #007ACC;">YOUR NAME</h2>
 
-      **Android & Backend Developer**  
-      🎓 IT Engineer | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder  
+  # <span style="color:#007ACC;">Sroytry Neang (Try)</span>
 
-      ---
+  **Android & Backend Developer**  
+  🎓 IT Engineer | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder  
 
-      ## 🧠 Summary
+  ---
 
-      Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
+  ## 🧠 Summary
+
+  Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
+
+  ---
+  
+  ## 🔧 Tech Focus
+  - Android App Development (Kotlin, Java, CameraX, ML Kit)
+  - Backend API (Spring Boot, JWT, MySQL, MongoDB)
+  - Cloud & DevOps (Docker, Firebase, GitHub Actions)
+  - AI Integrations (ChatGPT APIs, OCR, Translation)
+
     </td>
   </tr>
-  
+</table>
+
+
 
 <p align="center">
   <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 50%;" />
