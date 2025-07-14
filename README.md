@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="400px" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952g1osz28hwqui5piox2wfpmh8cdc7a1hjbm43bows&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ### 🚀 About Me
-- 💻 Android & Backend Developer with expertise in **Kotlin, Java, Spring Boot, and Node.js**
+- 💻 Android & Backend Developer with expertise in **Kotlin, Java, Spring Boot**
 - 🎓 Studied **ITE, Faculty of Engineering. at Royal University of Phnom Penh**
 - 🎓 Graduated by Google Developer Program **[Android Developer](https://g.dev/trycoding)**
 - 💼 Currently working at **Hattha Bank**
