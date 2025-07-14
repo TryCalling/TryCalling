@@ -2,7 +2,7 @@
   <tr>
     <!-- LEFT COLUMN / SIDEBAR -->
     <td width="39%" valign="top" align="center" style="background-color:#f2f2f2; padding:20px;">
-      <div style="margin-bottom: 20px;">
+      <div style="margin-bottom: 20px; margin-top: 10px;">
         <br/>
         <img src="trycalling.jpg" alt="Try Profile" width="150" height="200" style="border-radius: 50px;" />
       </div>
