@@ -11,9 +11,9 @@
 
   # <span style="color:#007ACC;">Sroytry Neang (Try)</span>
 
-  # <span style="color:#007ACC;">Student 🎓 IT Engineering</span>
-  
   **Android & Backend Developer**  
+  
+  **Student 🎓 IT Engineering**  
   <em> Student 🎓 IT Engineering | 💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em><br/>
 
   ---
