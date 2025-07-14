@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180" valign="top" align="center">
-      <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 10px;" /><br/><br/>
+      <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 15px;" /><br/><br/>
       <strong>📞 Contact</strong><br/>
       📧 trycalling1234@gmail.com<br/>
       🌍 Phnom Penh, Cambodia<br/>
@@ -12,7 +12,7 @@
   # <span style="color:#007ACC;">Sroytry Neang (Try)</span>
 
   **Android & Backend Developer**  
-  <em>🎓 IT Engineering | 💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em><br/>
+  <em> Stadiad 🎓 IT Engineering | 💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em><br/>
 
   ---
 
