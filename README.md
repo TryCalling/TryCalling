@@ -42,7 +42,6 @@
 </table>
 
 
-<table>
 <p align="center">
   <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 50%;" />
 </p>
@@ -148,6 +147,4 @@ Passionate and driven Android & backend developer with 3+ years experience build
 ---
 
 📌 *Let’s collaborate, code, and innovate — one project at a time.*
-
-<table>
 
