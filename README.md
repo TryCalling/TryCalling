@@ -1,3 +1,35 @@
+<table>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td width="430" valign="top" align="center">
+      <!-- manual spacing with line break instead of padding-top -->
+      <br/><br/>
+      <img src="trycalling.jpg" alt="Try Profile" width="160" style="border-radius: 14px;" /><br/><br/>
+      <strong>📞 Contact</strong><br/>
+      📧 trycalling1234@gmail.com<br/>
+      🌍 Phnom Penh, Cambodia<br/>
+      💼 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
+    </td>
+
+    <!-- RIGHT COLUMN -->
+    <td valign="top" style="padding-left: 30px;">
+      <h1>👨‍💻 Sroytry Neang (Try)</h1>
+
+      <strong>🎓 Student — IT Engineering</strong><br/>
+      <strong>🛠 Android & Backend Developer</strong><br/>
+      <em>Kotlin, Java, Spring Boot | AI Mobile App Builder</em>
+
+      ---
+
+      ## 🧠 Summary
+
+      Passionate and driven Android & backend developer with 3+ years of experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently building mobile banking apps and API platforms at Hattha Bank. Passionate about clean architecture, DevOps practices, and AI-powered innovation.
+    </td>
+  </tr>
+</table>
+
+
+
 
 <table>
   <tr>
@@ -18,7 +50,6 @@
   <em>💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em><br/>
 
     **Android & Backend Developer**  
-
 
   ---
 
