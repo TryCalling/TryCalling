@@ -2,7 +2,7 @@
   <tr>
     <!-- LEFT COLUMN / SIDEBAR -->
     <td width="35%" valign="top" align="center" style="background-color:#f2f2f2; padding:20px;">
-      <div style="margin-top: 20px; margin-bottom: 20px;">
+      <div style="margin-top: 90px; margin-bottom: 20px;">
         <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 14px;" />
       </div>
       <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)</h2>
