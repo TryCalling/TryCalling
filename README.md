@@ -8,7 +8,7 @@
       </div>
       <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)</h2>
       <p><strong>🎓 Student – IT Engineering</strong></p>
-      <h3 align="left" style="margin-top: 30px;">📞 Contact</h3>
+      <h2 align="left" style="margin-top: 30px;">📞 Contact</h2>
       <p align="left">
         📱 011 739 900, 011 557 399<br/>
         📧 trycalling1234@gmail.com<br/>
