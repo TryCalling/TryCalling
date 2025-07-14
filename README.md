@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="430" valign="top" align="center" style="padding-top: 10px;>
-      <img src="trycalling.jpg" alt="Try Profile" width="160" style="border-radius: 14px; padding-top: 50px;" /><br/><br/>
+      <img src="trycalling.jpg" alt="Try Profile" width="160" style="border-radius: 14px;" /><br/><br/>
       <strong>📞 Contact</strong><br/>
       📧 trycalling1234@gmail.com<br/>
       🌍 Phnom Penh, Cambodia<br/>
