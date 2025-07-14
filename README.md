@@ -3,10 +3,8 @@
     <!-- LEFT COLUMN / SIDEBAR -->
     <td width="35%" valign="top" align="center" style="background-color:#f2f2f2; padding:20px;">
       <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 14px; margin-bottom: 20px;" />
-
       <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)</h2>
       <p><strong>🎓 Student – IT Engineering</strong></p>
-
       <h3 style="margin-top: 30px;">📞 Contact</h3>
       <p align="left">
         📱 011 739 900, 011 557 399<br/>
@@ -15,23 +13,19 @@
         📍 Phnom Penh, Cambodia<br/>
         🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
       </p>
-
       <h3 style="margin-top: 30px;">📄 Download CV</h3>
       <p>
         <a href="https://example.com/your-cv.pdf" target="_blank">📎 View PDF</a>
       </p>
     </td>
-
     <!-- RIGHT COLUMN / MAIN PANEL -->
     <td width="65%" valign="top" style="padding: 30px;">
       <h1 style="margin-top: 0;">👨‍💻 Android & Backend Developer</h1>
       <p><em>💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em></p>
-
       <h2>🧠 Summary</h2>
       <p>
         Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
       </p>
-
       <h2>🔧 Tech Focus</h2>
       <ul>
         <li>📱 Android App Development (Kotlin, Java, CameraX, ML Kit)</li>
@@ -39,7 +33,6 @@
         <li>☁️ Cloud & DevOps (Docker, Firebase, GitHub Actions)</li>
         <li>🧠 AI Integrations (ChatGPT APIs, OCR, Translation)</li>
       </ul>
-
       <h2>🎓 Education & Certifications</h2>
       <ul>
         <li><strong>BSc in IT Engineering</strong> - Royal University of Phnom Penh</li>
@@ -47,7 +40,6 @@
         <li><strong>General English Program</strong> - PUC</li>
         <li><strong>Certified Android Developer</strong> - <a href="https://g.dev/trycoding">Google Developer Profile</a></li>
       </ul>
-
       <h2>💼 Work Experience</h2>
       <p><strong>Hattha Bank — Android & Backend Developer</strong><br/>
       <em>2021 – Present</em></p>
@@ -57,7 +49,6 @@
         <li>Implemented CI/CD using Jenkins and Docker</li>
         <li>Improved app stability through testing & analytics</li>
       </ul>
-
       <h2>🌟 Projects</h2>
       <ul>
         <li>📱 <strong>MLBB Event Tracker:</strong> Kotlin app with real-time event scheduling</li>
