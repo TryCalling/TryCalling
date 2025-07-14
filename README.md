@@ -2,22 +2,12 @@
   <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Sroytry%20Neang%20(Try)-Android%20%26%20Backend%20Developer-blue?style=flat-square&logo=github" alt="Sroytry Neang Badge"/>
-</h1>
+# 📄 Sroytry Neang (Try)
 
 <p align="center">
   <em>🎓 IT Engineer | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder</em><br/>
   📍 Phnom Penh, Cambodia · 📧 trycalling1234@gmail.com · 🌐 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
 </p>
-
-
-
-<p align="center">
-  <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 50%;" />
-</p>
-
-# 📄 Sroytry Neang (Try)
 
 **Android & Backend Developer**  
 🎓 IT Engineer | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder  
