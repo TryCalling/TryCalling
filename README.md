@@ -1,76 +1,55 @@
+
+![Header](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
+<h1 align="center">Hi 👋, I'm Try</h1>
+<h3 align="center">Android & Backend Developer | IT Engineering | Passionate about Innovation</h3>
+
 <p align="center">
-  <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 50%;" />
+  <a href="https://twitter.com/trycalling1"><img src="https://img.shields.io/twitter/follow/trycalling1?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  <a href="https://github.com/trycalling"><img src="https://img.shields.io/github/followers/trycalling?label=Followers&style=for-the-badge" alt="GitHub Followers" /></a>
+  <a href="mailto:trycalling1234@gmail.com"><img src="https://img.shields.io/badge/Email-trycalling1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-# 📄 Sroytry Neang (Try)
+---
 
-<p align="center">
-  <em>🎓 IT Engineering | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder</em><br/>
-</p>
+<img align="right" alt="Coding" width="400px" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952g1osz28hwqui5piox2wfpmh8cdc7a1hjbm43bows&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-**Android & Backend Developer**  
-🎓 IT Engineer | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder  
-📍 Phnom Penh, Cambodia | 📧 trycalling1234@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/sroytry-neang-ab2048256/)
+### 🚀 About Me
+- 💻 Android & Backend Developer with expertise in **Kotlin, Java, Spring Boot**
+- 🎓 Studied **ITE, Faculty of Engineering. at Royal University of Phnom Penh**
+- 🎓 Graduated by Google Developer Program **[Android Developer](https://g.dev/trycoding)**
+- 💼 Currently working at **Hattha Bank**
+- 🌱 Exploring **Cloud Computing, DevOps, and AI-powered mobile applications**
+- 🔥 Passionate about **Scalable Systems, API Development, and Performance Optimization**
+- 👨‍💻 My projects are available on **[GitHub](https://github.com/trycalling)** and **[GitLab](https://gitlab.com/trydevelopment)**
+- 💬 Ask me about **Android, Backend, APIs, and Cloud Technologies**
+- 📧 Contact me via **[Email](trycalling1234@gmail.com)**
 
 ---
 
-## 🧠 Summary
+### ⚡ Tech Stack & Tools
 
-Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
-
----
-
-## 💼 Work Experience
-
-### 💳 Hattha Bank — Android & Backend Developer  
-`2021 – Present`  
-- Developed secure mobile apps using Kotlin and Android Jetpack  
-- Built RESTful APIs with Spring Boot, JWT, and MySQL  
-- Integrated CI/CD pipelines with Jenkins and Docker  
-- Led testing and performance optimization using Postman and Firebase tools
-
-### 🧪 Personal Projects & Freelance (GitHub & GitLab)  
-- Built HRM system with Spring Boot + MongoDB + Docker  
-- Created CamScanner-style app with CameraX + ML Kit OCR  
-- Published several open-source Android tools and Kotlin libraries
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **Bachelor of Science in IT Engineering**  
-  _Royal University of Phnom Penh_
-  
-- 🎓 **General English Program**  
-  _Pańāsastra University of Cambodia (PUC)_
-
-- 🎓 **Backend Developer Training (Java)**  
-  _Piseth Java School_
-
-- 🏆 **Certified Android Developer**  
-  _Google Developer Program_ – [View Certificate](https://g.dev/trycoding)
-
-## 🔧 Tech Stack
-
-### 📱 Mobile  
+#### 📱 Mobile Development:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Lynx Framework](https://img.shields.io/badge/Lynx_Framework-1E90FF?style=for-the-badge&logo=lynx&logoColor=white)
 
-### 💻 Backend  
+#### 🖥️ Backend Development:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ☁️ Database & Cloud  
+#### 🛢️ Databases & Cloud:
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🛠️ DevOps & Tools  
+#### 🛠️ DevOps & Tools:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,26 +59,37 @@ Passionate and driven Android & backend developer with 3+ years experience build
 
 ---
 
-## 📂 Portfolio
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trycalling&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
 
-- 📱 [MLBB Event Tracker App](https://github.com/trycalling/mlbb-tracker)
-- 📦 [Rice Trading System (Spring Boot Microservices)](https://github.com/trycalling/rice-trading)
-- 🤖 [AI ChatBot Android App](https://github.com/trycalling/ai-chat-app)
-- ✨ More on GitHub: [github.com/trycalling](https://github.com/trycalling)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trycalling&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trycalling&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 
-## 🌐 Contact
+<p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trycalling&theme=github_dark" alt="Profile Details" />
+</p>
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | trycalling1234@gmail.com |
-| 🐦 Twitter | [@trycalling1](https://twitter.com/trycalling1) |
-| 💼 LinkedIn | [Sroytry Neang](https://www.linkedin.com/in/sroytry-neang-ab2048256/) |
-| 🎥 YouTube | [TryCalling4009](https://www.youtube.com/c/trycalling4009) |
-| 💬 Discord | [trycoding](https://discord.gg/ryk3r) |
-| 🌐 Google Dev | [Profile](https://developers.google.com/profile/u/trycoding) |
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trycalling&theme=dark" alt="GitHub Streak" /></p>
 
 ---
 
-📌 *Let’s collaborate, code, and innovate — one project at a time.*
+### 🔗 Connect with Me:
+<p>
+<a href="https://twitter.com/trycalling1" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/21700470/trycoding" target="blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://web.facebook.com/profile.php?id=100092326651375)" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/try_calling1/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/c/trycalling4009" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://discord.gg/ryk3r" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://developers.google.com/profile/u/trycoding" target="blank"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+</p>
+
+---
+
+🚀 **Let's Build & Innovate Together!** 🌍
