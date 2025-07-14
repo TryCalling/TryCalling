@@ -10,8 +10,11 @@
     <td valign="top" style="padding-left: 20px;">
 
   # <span style="color:#007ACC;">Sroytry Neang (Try)</span>
-  
-  **Student 🎓 IT Engineering**  
+
+
+  <td width="210" valign="top" align="center">
+      **Student 🎓 IT Engineering**  
+  </td>
 
   **Android & Backend Developer**  
   <em>💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em><br/>
