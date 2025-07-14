@@ -1,85 +1,8 @@
-<table>
-  <tr>
-    <!-- LEFT COLUMN: SIDEBAR -->
-    <td width="340" valign="top" align="center" style="background-color:#f9f9f9;">
-      <img src="trycalling.jpg" alt="Try Profile" width="200" style="border-radius: 14px;" /><br/><br/>
-
-      <h3>📞 Contact</h3>
-      <p align="left">
-        <strong>📧</strong> trycalling1234@gmail.com<br/>
-        <strong>🌍</strong> Phnom Penh, Cambodia<br/>
-        <strong>💼</strong> <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a><br/>
-        <strong>🐦</strong> <a href="https://twitter.com/trycalling1">Twitter</a><br/>
-        <strong>🔗</strong> <a href="https://github.com/trycalling">GitHub</a>
-      </p>
-
-      <h3>🛠️ Tech Stack</h3>
-      <p align="left">
-        <strong>Mobile:</strong> Kotlin, Java, Flutter<br/>
-        <strong>Backend:</strong> Spring Boot, Django, PHP<br/>
-        <strong>Database:</strong> MySQL, MongoDB, Firebase<br/>
-        <strong>DevOps:</strong> Docker, Git, Jenkins
-      </p>
-    </td>
-
-    <!-- RIGHT COLUMN: MAIN CONTENT -->
-    <td valign="top" style="padding-left: 30px;">
-
-  # 👨‍💻 Sroytry Neang (Try)
-
-  **Android & Backend Developer**  
-  🎓 IT Engineer | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder  
-
-  ---
-
-  ## 🧠 Summary
-
-  Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
-
-  ---
-
-  ## 💼 Work Experience
-
-  ### 💳 Hattha Bank — Android & Backend Developer  
-  `2021 – Present`  
-  - Built Kotlin banking apps with Firebase + CameraX  
-  - Developed APIs with Spring Boot, secured via JWT  
-  - CI/CD with Docker + Jenkins  
-  - Performance testing using Postman + Firebase Crashlytics
-
-  ---
-
-  ## 🎓 Education
-
-  - 🎓 BSc in IT Engineering, Royal University of Phnom Penh  
-  - 🎓 General English Program, PUC  
-  - 🎓 Backend Developer (Java), Piseth Java School  
-  - 🏆 [Google Certified Android Developer](https://g.dev/trycoding)
-
-  ---
-
-  ## 🚀 Projects
-
-  - 📱 [MLBB Event Tracker](https://github.com/trycalling/mlbb-tracker)  
-  - 📦 [Rice Trading System (Microservices)](https://github.com/trycalling/rice-trading)  
-  - 🤖 [AI ChatBot Android App](https://github.com/trycalling/ai-chat-app)
-
-  ---
-
-  📌 *Let’s build something legendary.*
-
-    </td>
-  </tr>
-</table>
-
-
-
-
 
 <table>
   <tr>
     <td width="340" valign="top" align="center">
-      <img src="trycalling.jpg" alt="Try Profile" width="200" style="border-radius: 14px;" /><br/><br/>
+      <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 14px;" /><br/><br/>
       <strong>📞 Contact</strong><br/>
       📧 trycalling1234@gmail.com<br/>
       🌍 Phnom Penh, Cambodia<br/>
@@ -87,7 +10,7 @@
     </td>
     <td valign="top" style="padding-left: 20px;">
 
-  # <span style="color:#007ACC;">Sroytry Neang (Try)</span>
+  # <span style="color:#007ACC;">👨‍💻Sroytry Neang (Try)</span>
 
   **Student 🎓 IT Engineering**  
 
