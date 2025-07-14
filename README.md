@@ -5,8 +5,7 @@
 # 📄 Sroytry Neang (Try)
 
 <p align="center">
-  <em>🎓 IT Engineer | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder</em><br/>
-  📍 Phnom Penh, Cambodia · 📧 trycalling1234@gmail.com · 🌐 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
+  <em>🎓 IT Engineering | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder</em><br/>
 </p>
 
 **Android & Backend Developer**  
