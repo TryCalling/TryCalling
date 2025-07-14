@@ -1,47 +1,46 @@
-
 <table>
   <tr>
+    <!-- LEFT COLUMN / SIDEBAR -->
     <td width="410" valign="top" align="center" style="background-color:#f8f8f8; border-right:1px solid #ccc;">
-  <br/><br/>
-  <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 14px;" /><br/><br/>
+      <br/><br/>
+      <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 14px;" /><br/><br/>
 
-  <h2>👨‍💻 Sroytry Neang (Try)</h2>
-  <p><strong>🎓 Student – IT Engineering</strong></p>
+      <h2>👨‍💻 Sroytry Neang (Try)</h2>
+      <p><strong>🎓 Student – IT Engineering</strong></p>
 
-  <h3>📞 Contact</h3>
-  <p align="left" style="padding-left: 20px; line-height: 1.6;">
-    📞 011 739 900, 011 557 399<br/>
-    📧 trycalling1234@gmail.com<br/>
-    🎂 Date of Birth: 30-Oct-2002<br/>
-    📍 Phnom Penh, Cambodia<br/>
-    🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
-  </p>
-</td>
+      <h3>📞 Contact</h3>
+      <p align="left" style="padding-left: 20px; line-height: 1.6;">
+        📞 011 739 900, 011 557 399<br/>
+        📧 trycalling1234@gmail.com<br/>
+        🎂 Date of Birth: 30-Oct-2002<br/>
+        📍 Phnom Penh, Cambodia<br/>
+        🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
+      </p>
+    </td>
 
-    <td valign="top" style="padding-left: 15px;">
-    
-  # <span style="color:#007ACC;">👨‍💻Sroytry Neang (Try)</span>
+    <!-- RIGHT COLUMN / MAIN PANEL -->
+    <td valign="top" style="padding-left: 25px;">
 
-  ## **Student 🎓 IT Engineering**
+      <br/><br/>
+      <h1>👨‍💻 Android & Backend Developer</h1>
+      <p><em>💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em></p>
 
-  **Android & Backend Developer**  
-  <em>💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em><br/>
+      <hr/>
 
-    **Android & Backend Developer**  
+      <h2>🧠 Summary</h2>
+      <p>
+        Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
+      </p>
 
-  ---
+      <hr/>
 
-  ## 🧠 Summary
-
-  Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
-
-  ---
-  
-  ## 🔧 Tech Focus
-  - Android App Development (Kotlin, Java, CameraX, ML Kit)
-  - Backend API (Spring Boot, JWT, MySQL, MongoDB)
-  - Cloud & DevOps (Docker, Firebase, GitHub Actions)
-  - AI Integrations (ChatGPT APIs, OCR, Translation)
+      <h2>🔧 Tech Focus</h2>
+      <ul>
+        <li>📱 Android App Development (Kotlin, Java, CameraX, ML Kit)</li>
+        <li>🌐 Backend API (Spring Boot, JWT, MySQL, MongoDB)</li>
+        <li>☁️ Cloud & DevOps (Docker, Firebase, GitHub Actions)</li>
+        <li>🧠 AI Integrations (ChatGPT APIs, OCR, Translation)</li>
+      </ul>
 
     </td>
   </tr>
