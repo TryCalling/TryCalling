@@ -7,7 +7,7 @@
       🌍 Phnom Penh, Cambodia<br/>
       💼 [LinkedIn](https://www.linkedin.com/in/sroytry-neang-ab2048256/)
     </td>
-    <td valign="top" style="padding-left: 20px; padding-top: 50px;">
+    <td valign="top" style="padding-left: 20px;">
 
   # <span style="color:#007ACC;">Sroytry Neang (Try)</span>
 
