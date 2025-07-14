@@ -2,7 +2,7 @@
   <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 10px; margin-right: 20px;" />
 </p>
 
-<h2 align="left">📄 Sroytry Neang (Try)</h2>
+<h2 align="right">📄 Sroytry Neang (Try)</h2>
 
 **Android & Backend Developer**  
 🎓 IT Engineer | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder  
