@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="[assets/try_profile_optimized.jpg](https://avatars.githubusercontent.com/u/12345678?v=4)" alt="Try Profile" width="150" style="border-radius: 8px;" />
   <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 50%;" />
-
 </p>
 
 # 📄 Sroytry Neang (Try)
@@ -37,7 +35,7 @@ Passionate and driven Android & backend developer with 3+ years experience build
 ## 🎓 Education & Certifications
 
 - 🎓 **BSc in IT Engineering**, Royal University of Phnom Penh  
-- 🎓 **Google Developer Program** – [Certified Android Developer](https://g.dev/trycoding)
+- 🏆 **Google Developer Program** – [Certified Android Developer](https://g.dev/trycoding)
 
 ---
 
@@ -55,7 +53,7 @@ Passionate and driven Android & backend developer with 3+ years experience build
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🛢️ Database & Cloud  
+### ☁️ Database & Cloud  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
