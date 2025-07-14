@@ -1,7 +1,7 @@
 
 <table>
   <tr>
-    <td width="430" valign="top" align="center">
+    <td width="410" valign="top" align="center">
       <br/><br/>
       <img src="trycalling.jpg" alt="Try Profile" width="160" style="border-radius: 14px;" /><br/><br/>
       <strong>📞 Contact</strong><br/>
@@ -9,7 +9,7 @@
       🌍 Phnom Penh, Cambodia<br/>
       💼 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
     </td>
-    <td valign="top" style="padding-left: 20px;">
+    <td valign="top" style="padding-left: 15px;">
 
   # <span style="color:#007ACC;">👨‍💻Sroytry Neang (Try)</span>
 
