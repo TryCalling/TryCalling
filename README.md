@@ -1,4 +1,3 @@
-<table>
   <tr>
     <td width="180" valign="top" align="center">
       <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 10px;" /><br/>
@@ -20,9 +19,7 @@
       Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
     </td>
   </tr>
-</table>
-
-
+  
 
 <p align="center">
   <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 50%;" />
