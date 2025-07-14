@@ -34,10 +34,17 @@ Passionate and driven Android & backend developer with 3+ years experience build
 
 ## 🎓 Education & Certifications
 
-- 🎓 **BSc in IT Engineering**, Royal University of Phnom Penh  
-- 🏆 **Google Developer Program** – [Certified Android Developer](https://g.dev/trycoding)
+- 🎓 **Bachelor of Science in IT Engineering**  
+  _Royal University of Phnom Penh_
+  
+- 🎓 **General English Program**  
+  _Pańāsastra University of Cambodia (PUC)_
 
----
+- 🎓 **Backend Developer Training (Java)**  
+  _Piseth Java School_
+
+- 🏆 **Certified Android Developer**  
+  _Google Developer Program_ – [View Certificate](https://g.dev/trycoding)
 
 ## 🔧 Tech Stack
 
