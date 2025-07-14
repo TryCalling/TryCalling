@@ -4,8 +4,10 @@
     <td width="410" valign="top" align="center">
       <br/><br/>
       <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 14px;" /><br/><br/>
-      <strong>📞 Contact</strong><br/>
+      <strong>Contact</strong><br/>
+      📞 011 739 900, 011 557 399<br/>
       📧 trycalling1234@gmail.com<br/>
+      📧 DoB: 30-Oct-2002<br/>
       🌍 Phnom Penh, Cambodia<br/>
       💼 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
     </td>
