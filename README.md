@@ -1,7 +1,7 @@
 <table>
   <tr>
     <!-- LEFT COLUMN / SIDEBAR -->
-    <td width="410" valign="top" align="center" style="background-color:#f8f8f8; border-right:1px solid #ccc;">
+    <td width="410" valign="top" align="center">
       <br/><br/>
       <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 14px;" /><br/><br/>
 
@@ -9,7 +9,7 @@
       <p><strong>🎓 Student – IT Engineering</strong></p>
 
       <h3>📞 Contact</h3>
-      <p align="left" style="padding-left: 20px; line-height: 1.6;">
+      <p align="left">
         📞 011 739 900, 011 557 399<br/>
         📧 trycalling1234@gmail.com<br/>
         🎂 Date of Birth: 30-Oct-2002<br/>
@@ -45,7 +45,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <p align="center">
