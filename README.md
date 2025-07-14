@@ -52,6 +52,10 @@
 </p>
 
 # 📄 Sroytry Neang (Try)
+<h3>📄 Download CV</h3>
+  <p>
+    <a href="https://example.com/your-cv.pdf" target="_blank">🔹 View PDF</a>
+  </p>
 
 <p align="center">
   <em>🎓 IT Engineering | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder</em><br/>
