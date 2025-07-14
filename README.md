@@ -2,16 +2,22 @@
 <table>
   <tr>
     <td width="410" valign="top" align="center" style="background-color:#f8f8f8; border-right:1px solid #ccc;">
-      <br/><br/>
-      <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 14px;" /><br/><br/>
-      <strong>Contact</strong><br/>
-      ## Contact
-      -📞 011 739 900, 011 557 399<br/>
-      -📧 trycalling1234@gmail.com<br/>
-      -🎂 DoB: 30-Oct-2002<br/>
-      -📍 Phnom Penh, Cambodia<br/>
-      🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
-    </td>
+  <br/><br/>
+  <img src="trycalling.jpg" alt="Try Profile" width="140" style="border-radius: 14px;" /><br/><br/>
+
+  <h2>👨‍💻 Sroytry Neang (Try)</h2>
+  <p><strong>🎓 Student – IT Engineering</strong></p>
+
+  <h3>📞 Contact</h3>
+  <p align="left" style="padding-left: 20px; line-height: 1.6;">
+    📞 011 739 900, 011 557 399<br/>
+    📧 trycalling1234@gmail.com<br/>
+    🎂 Date of Birth: 30-Oct-2002<br/>
+    📍 Phnom Penh, Cambodia<br/>
+    🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
+  </p>
+</td>
+
     <td valign="top" style="padding-left: 15px;">
     
   # <span style="color:#007ACC;">👨‍💻Sroytry Neang (Try)</span>
