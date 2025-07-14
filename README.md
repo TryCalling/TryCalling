@@ -1,5 +1,7 @@
 <p align="center">
   <img src="[assets/try_profile_optimized.jpg](https://avatars.githubusercontent.com/u/12345678?v=4)" alt="Try Profile" width="150" style="border-radius: 8px;" />
+  <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 50%;" />
+
 </p>
 
 # 📄 Sroytry Neang (Try)
