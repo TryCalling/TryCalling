@@ -11,8 +11,9 @@
       🌍 Phnom Penh, Cambodia<br/>
       💼 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
     </td>
+    # <span style="color:#007ACC;">👨‍💻Sroytry Neang (Try)</span>
     <td valign="top" style="padding-left: 15px;">
-
+    
   # <span style="color:#007ACC;">👨‍💻Sroytry Neang (Try)</span>
 
   ## **Student 🎓 IT Engineering**
