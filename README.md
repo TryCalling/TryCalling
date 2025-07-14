@@ -12,7 +12,7 @@
   # <span style="color:#007ACC;">Sroytry Neang (Try)</span>
 
 
-  <td width="210" valign="top" align="center">
+  <td>
       **Student 🎓 IT Engineering**  
   </td>
 
