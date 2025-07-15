@@ -20,10 +20,20 @@
         📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.<br/>
         🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
       </p>
-      <h2>🧠 Summary</h2>
-      <p>
-        Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
+      <h3 align="left">🧠 Profile Summary</h3>
+      <p align="left">
+        Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems.
       </p>
+      <h3 align="left">🏅 Skills</h3>
+      <ul align="left">
+        <li>Android (Kotlin, XML UI, Jetpack Compose)</li>
+        <li>Backend (Spring Boot, JWT, REST APIs)</li>
+        <li>Database (MySQL, JPA, MongoDB)</li>
+        <li>DevOps: Docker, GitHub Actions</li>
+        <li>CI/CD: Jenkins (basic)</li>
+        <li>Tools: Postman, Firebase, IntelliJ, VS Code</li>
+        <li>UI/UX: Figma, Material Design</li>
+      </ul>
       <h3 style="margin-top: 30px;">📄 Download CV</h3>
       <p>
         <a href="https://example.com/your-cv.pdf" target="_blank">📎 View PDF</a>
