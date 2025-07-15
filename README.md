@@ -6,7 +6,7 @@
         <img src="trycalling.jpg" alt="Try Profile" width="150" height="180" style="border-radius: 50%;" />
       </div>
       <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)
-      <p>🎓 Student – IT Engineering</p>
+      <h>🎓 Student – IT Engineering</h>
       </h2>
       <h2 align="left" style="margin-top: 30px;">📞 Contact</h2>
       <ul align="left" style="padding-left: 20px; line-height: 1.6;">
