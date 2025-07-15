@@ -38,6 +38,17 @@
       </ul>
       <h2>🎓 Education & Certifications</h2>
       <ul>
+        - 🎓 **Bachelor of Science in IT Engineering**  
+  _Royal University of Phnom Penh_
+  
+- 🎓 **General English Program**  
+  _Pańāsastra University of Cambodia (PUC)_
+
+- 🎓 **Backend Developer Training (Java)**  
+  _Piseth Java School_
+
+- 🏆 **Certified Android Developer**  
+  _Google Developer Program_ – [View Certificate](https://g.dev/trycoding)
         <li><strong>BSc in IT Engineering</strong> - Royal University of Phnom Penh</li>
         <li><strong>Backend Developer Certificate</strong> - Piseth Java School</li>
         <li><strong>General English Program</strong> - PUC</li>
