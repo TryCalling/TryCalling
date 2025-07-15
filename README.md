@@ -7,14 +7,19 @@
       </div>
       <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)</h2>
       <p><strong>🎓 Student – IT Engineering</strong></p>
-      <h2 align="left" style="margin-top: 30px;">Contact</h2>
-      <p align="left">
-        📱 011 739 900, 011 557 399<br/>
-        📧 trycalling1234@gmail.com<br/>
-        🎂 30-Oct-2002<br/>
-        📍 Phnom Penh, Cambodia<br/>
-        🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
-      </p>
+      <h2 align="left" style="margin-top: 30px;">📞 Contact</h2>
+<p align="left">
+  📧 Email: sroytryneang1708@gmail.com<br/>
+  📱 Phone: +855-11739900, 10557399<br/>
+  🏠 Address: 21Eo, Street 44 D4, Dang Kao Commune, Dang Kao District, Phnom Penh City, Cambodia.<br/>
+  🎂 Date of Birth: 30th October 2002<br/>
+  🌏 Nationality: Khmer<br/>
+  🛂 Citizenship: Khmer<br/>
+  💍 Marital Status: Single<br/>
+  🚹 Sex: Male<br/>
+  📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.<br/>
+  🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
+</p>
       <h2>🧠 Summary</h2>
       <p>
         Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
