@@ -8,18 +8,17 @@
       <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)</h2>
       <p><strong>🎓 Student – IT Engineering</strong></p>
       <h2 align="left" style="margin-top: 30px;">📞 Contact</h2>
-      <p align="left">
-        📧 Email: sroytryneang1708@gmail.com<br/>
-        📱 Phone: +855-11739900, 10557399<br/>
-        🏠 Address: 21Eo, Street 44 D4, Dang Kao Commune, Dang Kao District, Phnom Penh City, Cambodia.<br/>
-        🎂 Date of Birth: 30th October 2002<br/>
-        🌏 Nationality: Khmer<br/>
-        🛂 Citizenship: Khmer<br/>
-        💍 Marital Status: Single<br/>
-        🚹 Sex: Male<br/>
-        📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.<br/>
-        🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
-      </p>
+      <ul align="left" style="padding-left: 20px; line-height: 1.6;">
+  <li>📧 Email: sroytryneang1708@gmail.com</li>
+  <li>📱 Phone: +855-11739900, 10557399</li>
+  <li>🏠 Address: 21Eo, Street 44 D4, Dang Kao Commune, Dang Kao District, Phnom Penh City, Cambodia.</li>
+  <li>🎂 Date of Birth: 30th October 2002</li>
+  <li>🌏 Nationality: Khmer</li>
+  <li>🛂 Citizenship: Khmer</li>
+  <li>💍 Marital Status: Single</li>
+  <li>🚹 Sex: Male</li>
+  <li>📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.</li>
+</ul>
       <h3 align="left">🧠 Profile Summary</h3>
       <p align="left">
         Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems.
