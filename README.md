@@ -5,8 +5,9 @@
       <div style="margin: 40px 0 20px;"><br/>
         <img src="trycalling.jpg" alt="Try Profile" width="150" height="180" style="border-radius: 50%;" />
       </div>
-      <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)</h2>
+      <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)
       <p><strong>🎓 Student – IT Engineering</strong></p>
+      </h2>
       <h2 align="left" style="margin-top: 30px;">📞 Contact</h2>
       <ul align="left" style="padding-left: 20px; line-height: 1.6;">
   <li>📧 Email: sroytryneang1708@gmail.com</li>
@@ -19,8 +20,8 @@
   <li>🚹 Sex: Male</li>
   <li>📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.</li>
 </ul>      
-      <p align="left">
       <h3 align="left">🧠 Profile Summary</h3>
+      <p align="left">
         Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems.
       </p>
       <h2 align="left" style="margin-top: 30px;">🏅 Skills</h2>
