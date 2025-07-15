@@ -3,7 +3,7 @@
     <!-- LEFT COLUMN / SIDEBAR -->
     <td width="39%" valign="top" align="center" style="background-color:#f2f2f2; padding:20px;">
       <div style="margin: 40px 0 20px;">
-        <img src="trycalling.jpg" alt="Try Profile" width="150" height="200" style="border-radius: 50px;" />
+        <img src="trycalling.jpg" alt="Try Profile" width="150" height="150" style="border-radius: 50%;" />
       </div>
       <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)</h2>
       <p><strong>🎓 Student – IT Engineering</strong></p>
