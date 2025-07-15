@@ -1,4 +1,4 @@
-<table style="width:100%; table-layout:fixed; font-family:Arial, sans-serif;">
+<table style="width:100%; table-layout:fixed; font-family:Arial, sans-serif; background-color:#404040;">
   <tr>
     <!-- LEFT COLUMN / SIDEBAR -->
     <td width="39%" valign="top" align="center" style="background-color:#f2f2f2; padding:20px;">
