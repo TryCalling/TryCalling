@@ -24,6 +24,7 @@
       <p align="left">
         Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems.
       </p>
+      <h2 align="left" style="margin-top: 30px;">🏅 Skills</h2>
       <h3 align="left">🏅 Skills</h3>
       <ul align="left">
         <li>Android (Kotlin, XML UI, Jetpack Compose)</li>
