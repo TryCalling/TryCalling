@@ -18,9 +18,9 @@
   <li>💍 Marital Status: Single</li>
   <li>🚹 Sex: Male</li>
   <li>📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.</li>
-</ul>
-      <h3 align="left">🧠 Profile Summary</h3>
+</ul>      
       <p align="left">
+      <h3 align="left">🧠 Profile Summary</h3>
         Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems.
       </p>
       <h2 align="left" style="margin-top: 30px;">🏅 Skills</h2>
