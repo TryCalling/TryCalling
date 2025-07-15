@@ -2,24 +2,24 @@
   <tr>
     <!-- LEFT COLUMN / SIDEBAR -->
     <td width="39%" valign="top" align="center" style="background-color:#f2f2f2; padding:20px;">
-      <div style="margin-top: 40px; margin-bottom: 20px;"><br/>
-        <img src="trycalling.jpg" alt="Try Profile" width="150" height="200" style="border-radius: 50px;"/>
+      <div style="margin: 40px 0 20px;">
+        <img src="trycalling.jpg" alt="Try Profile" width="150" height="200" style="border-radius: 50px;" />
       </div>
       <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)</h2>
       <p><strong>🎓 Student – IT Engineering</strong></p>
       <h2 align="left" style="margin-top: 30px;">📞 Contact</h2>
-<p align="left">
-  📧 Email: sroytryneang1708@gmail.com<br/>
-  📱 Phone: +855-11739900, 10557399<br/>
-  🏠 Address: 21Eo, Street 44 D4, Dang Kao Commune, Dang Kao District, Phnom Penh City, Cambodia.<br/>
-  🎂 Date of Birth: 30th October 2002<br/>
-  🌏 Nationality: Khmer<br/>
-  🛂 Citizenship: Khmer<br/>
-  💍 Marital Status: Single<br/>
-  🚹 Sex: Male<br/>
-  📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.<br/>
-  🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
-</p>
+      <p align="left">
+        📧 Email: sroytryneang1708@gmail.com<br/>
+        📱 Phone: +855-11739900, 10557399<br/>
+        🏠 Address: 21Eo, Street 44 D4, Dang Kao Commune, Dang Kao District, Phnom Penh City, Cambodia.<br/>
+        🎂 Date of Birth: 30th October 2002<br/>
+        🌏 Nationality: Khmer<br/>
+        🛂 Citizenship: Khmer<br/>
+        💍 Marital Status: Single<br/>
+        🚹 Sex: Male<br/>
+        📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.<br/>
+        🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
+      </p>
       <h2>🧠 Summary</h2>
       <p>
         Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
@@ -42,17 +42,6 @@
       </ul>
       <h2>🎓 Education & Certifications</h2>
       <ul>
-        - 🎓 **Bachelor of Science in IT Engineering**  
-  _Royal University of Phnom Penh_
-  
-- 🎓 **General English Program**  
-  _Pańāsastra University of Cambodia (PUC)_
-
-- 🎓 **Backend Developer Training (Java)**  
-  _Piseth Java School_
-
-- 🏆 **Certified Android Developer**  
-  _Google Developer Program_ – [View Certificate](https://g.dev/trycoding)
         <li><strong>BSc in IT Engineering</strong> - Royal University of Phnom Penh</li>
         <li><strong>Backend Developer Certificate</strong> - Piseth Java School</li>
         <li><strong>General English Program</strong> - PUC</li>
@@ -77,6 +66,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
