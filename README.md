@@ -17,6 +17,10 @@
         🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/">LinkedIn</a>
       </p>
       <h3 style="margin-top: 30px;">📄 Download CV</h3>
+      <h2>🧠 Summary</h2>
+      <p>
+        Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
+      </p>  
       <p>
         <a href="https://example.com/your-cv.pdf" target="_blank">📎 View PDF</a>
       </p>
@@ -25,10 +29,6 @@
     <td width="65%" valign="top" style="padding: 30px;">
       <h1 style="margin-top: 0;">👨‍💻 Android & Backend Developer</h1>
       <p><em>💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em></p>
-      <h2>🧠 Summary</h2>
-      <p>
-        Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
-      </p>
       <h2>🔧 Tech Focus</h2>
       <ul>
         <li>📱 Android App Development (Kotlin, Java, CameraX, ML Kit)</li>
