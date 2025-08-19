@@ -1,18 +1,110 @@
+<table style="width:100%; table-layout:fixed; font-family:Arial, sans-serif; background-color:#404040;">
+  <tr>
+    <!-- LEFT COLUMN / SIDEBAR -->
+    <td width="39%" valign="top" align="center" style="background-color:#f2f2f2; padding:20px;">
+      <div style="margin: 40px 0 20px;"><br/>
+        <img src="trycalling.jpg" alt="Try Profile" width="150" height="180" style="border-radius: 50%;" />
+      </div>
+      <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)
+      <h>🎓 Student – IT Engineering</h>
+      </h2>
+      <h2 align="left" style="margin-top: 30px;">📞 Contact</h2>
+  <ul align="left" style="padding-left: 20px; line-height: 1.6;">
+    <li>📧 Email: sroytryneang1708@gmail.com</li>
+    <li>📱 Phone: +855-11739900, 10557399</li>
+    <li>🏠 Address: 21Eo, Street 44 D4, Dang Kao Commune, Dang Kao District, Phnom Penh City, Cambodia.</li>
+    <li>🎂 Date of Birth: 30th October 2002</li>
+    <li>🌏 Nationality: Khmer</li>
+    <li>🛂 Citizenship: Khmer</li>
+    <li>💍 Marital Status: Single</li>
+    <li>🚹 Sex: Male</li>
+    <li>📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.</li>
+    <li>🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/" target="_blank">LinkedIn</a></li>
+  </ul> 
+      <h3 align="left">🧠 Profile Summary</h3>
+      <p align="left">
+        Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems.
+      </p>
+      <h2 align="left" style="margin-top: 30px;">🏅 Skills</h2>
+      <h3 align="left">🏅 Skills</h3>
+      <ul align="left">
+        <li>Android (Kotlin, XML UI, Jetpack Compose)</li>
+        <li>Backend (Spring Boot, JWT, REST APIs)</li>
+        <li>Database (MySQL, JPA, MongoDB)</li>
+        <li>DevOps: Docker, GitHub Actions</li>
+        <li>CI/CD: Jenkins (basic)</li>
+        <li>Tools: Postman, Firebase, IntelliJ, VS Code</li>
+        <li>UI/UX: Figma, Material Design</li>
+      </ul>
+      <h3 style="margin-top: 30px;">📄 Download CV</h3>
+      <p>
+        <a href="https://example.com/your-cv.pdf" target="_blank">📎 View PDF</a>
+      </p>
+    </td>
+    <!-- RIGHT COLUMN / MAIN PANEL -->
+    <td width="65%" valign="top" style="padding: 30px;">
+      <h1 style="margin-top: 0;">👨‍💻 Android & Backend Developer</h1>
+      <p><em>💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em></p>
+      <h2>🔧 Tech Focus</h2>
+      <ul>
+        <li>📱 Android App Development (Kotlin, Java, CameraX, ML Kit)</li>
+        <li>🌐 Backend API (Spring Boot, JWT, MySQL, MongoDB)</li>
+        <li>☁️ Cloud & DevOps (Docker, Firebase, GitHub Actions)</li>
+        <li>🧠 AI Integrations (ChatGPT APIs, OCR, Translation)</li>
+      </ul>
+      <h2>🎓 Education & Certifications</h2>
+      <ul>
+        <li><strong>BSc in IT Engineering</strong> - Royal University of Phnom Penh</li>
+        <li><strong>Backend Developer Certificate</strong> - Piseth Java School</li>
+        <li><strong>General English Program</strong> - PUC</li>
+        <li><strong>Certified Android Developer</strong> - <a href="https://g.dev/trycoding">Google Developer Profile</a></li>
+      </ul>
+      <h2>💼 Work Experience</h2>
+      <p><strong>Hattha Bank — Android & Backend Developer</strong><br/>
+      <em>2021 – Present</em></p>
+      <ul>
+        <li>Developed Kotlin-based Android apps with Firebase & CameraX</li>
+        <li>Built Spring Boot APIs with MySQL, JWT authentication</li>
+        <li>Implemented CI/CD using Jenkins and Docker</li>
+        <li>Improved app stability through testing & analytics</li>
+      </ul>
+      <h2>🌟 Projects</h2>
+      <ul>
+        <li>📱 <strong>MLBB Event Tracker:</strong> Kotlin app with real-time event scheduling</li>
+        <li>📊 <strong>Rice Trading System:</strong> Spring Boot microservice for managing rice sales & reports</li>
+        <li>🤖 <strong>AI ChatBot:</strong> Android chat app using OpenAI's GPT API</li>
+        <li>🧮 <strong>HRM System:</strong> Fullstack HR system using Spring Boot + MongoDB</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <p align="center">
-  <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius:50%;" />
+  <img src="trycalling.jpg" alt="Try Profile" width="150" style="border-radius: 50%;" />
 </p>
 
-# 👨‍💻 Sroytry Neang (Try)
+# 📄 Sroytry Neang (Try)
+<h3>📄 Download CV</h3>
+  <p>
+    <a href="https://example.com/your-cv.pdf" target="_blank">🔹 View PDF</a>
+  </p>
 
-🎓 IT Engineering | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder  
-📍 Phnom Penh, Cambodia | 📧 **trycalling1234@gmail.com** | 🌐 [LinkedIn](https://www.linkedin.com/in/sroytry-neang-ab2048256/)
+<p align="center">
+  <em>🎓 IT Engineering | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder</em><br/>
+</p>
+
+**Android & Backend Developer**  
+🎓 IT Engineer | 💻 Kotlin, Java, Spring Boot | 🧠 DevOps | 🤖 AI Mobile App Builder  
+📍 Phnom Penh, Cambodia | 📧 trycalling1234@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/sroytry-neang-ab2048256/)
 
 ---
 
 ## 🧠 Summary
 
-Passionate and driven Android & backend developer with 3+ years of experience building scalable mobile and web applications. Specialized in **Kotlin, Java, Spring Boot**. Graduate of Royal University of Phnom Penh and Google-certified Android Developer.  
-Currently developing **mobile banking apps** and **cloud-based APIs** at Hattha Bank. Focused on **clean architecture, security, performance**, and innovation in AI-powered apps.
+Passionate and driven Android & backend developer with 3+ years experience building scalable mobile and web applications. Specialized in Kotlin, Java, and Spring Boot. Graduate of Royal University of Phnom Penh and Google-certified Android Developer. Currently developing mobile banking apps and cloud-based APIs at Hattha Bank. Focused on clean architecture, security, performance, and innovation in AI-powered applications.
 
 ---
 
@@ -20,26 +112,31 @@ Currently developing **mobile banking apps** and **cloud-based APIs** at Hattha 
 
 ### 💳 Hattha Bank — Android & Backend Developer  
 `2021 – Present`  
-- Developed secure mobile apps using **Kotlin** and Android Jetpack  
-- Built RESTful APIs with **Spring Boot, JWT, MySQL**  
-- Integrated CI/CD pipelines with **Jenkins and Docker**  
-- Led testing and performance optimization using **Postman & Firebase**
+- Developed secure mobile apps using Kotlin and Android Jetpack  
+- Built RESTful APIs with Spring Boot, JWT, and MySQL  
+- Integrated CI/CD pipelines with Jenkins and Docker  
+- Led testing and performance optimization using Postman and Firebase tools
 
-### 🧪 Personal Projects & Freelance  
-- Built **HRM System** (Spring Boot + MongoDB + Docker)  
-- Created **CamScanner-style app** (CameraX + ML Kit OCR)  
-- Published open-source **Android tools** & **Kotlin libraries**
+### 🧪 Personal Projects & Freelance (GitHub & GitLab)  
+- Built HRM system with Spring Boot + MongoDB + Docker  
+- Created CamScanner-style app with CameraX + ML Kit OCR  
+- Published several open-source Android tools and Kotlin libraries
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 **BSc in IT Engineering** – Royal University of Phnom Penh  
-- 🎓 **General English Program** – PUC  
-- 🎓 **Backend Developer Training (Java)** – Piseth Java School  
-- 🏆 **Certified Android Developer** – [Google Developer Program](https://g.dev/trycoding)
+- 🎓 **Bachelor of Science in IT Engineering**  
+  _Royal University of Phnom Penh_
+  
+- 🎓 **General English Program**  
+  _Pańāsastra University of Cambodia (PUC)_
 
----
+- 🎓 **Backend Developer Training (Java)**  
+  _Piseth Java School_
+
+- 🏆 **Certified Android Developer**  
+  _Google Developer Program_ – [View Certificate](https://g.dev/trycoding)
 
 ## 🔧 Tech Stack
 
@@ -73,9 +170,9 @@ Currently developing **mobile banking apps** and **cloud-based APIs** at Hattha 
 
 ## 📂 Portfolio
 
-- 📱 [MLBB Event Tracker App](https://github.com/trycalling/mlbb-tracker)  
-- 📦 [Rice Trading System (Spring Boot Microservices)](https://github.com/trycalling/rice-trading)  
-- 🤖 [AI ChatBot Android App](https://github.com/trycalling/ai-chat-app)  
+- 📱 [MLBB Event Tracker App](https://github.com/trycalling/mlbb-tracker)
+- 📦 [Rice Trading System (Spring Boot Microservices)](https://github.com/trycalling/rice-trading)
+- 🤖 [AI ChatBot Android App](https://github.com/trycalling/ai-chat-app)
 - ✨ More on GitHub: [github.com/trycalling](https://github.com/trycalling)
 
 ---
@@ -94,3 +191,5 @@ Currently developing **mobile banking apps** and **cloud-based APIs** at Hattha 
 ---
 
 📌 *Let’s collaborate, code, and innovate — one project at a time.*
+
+
