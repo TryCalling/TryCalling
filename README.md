@@ -191,5 +191,6 @@ Passionate and driven Android & backend developer with 3+ years experience build
 ---
 
 📌 *Let’s collaborate, code, and innovate — one project at a time.*
+<img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+Naimul+Islam+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" />
 
 
