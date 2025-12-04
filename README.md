@@ -1,111 +1,85 @@
-<div align="center">
+<table style="width:100%; table-layout:fixed; font-family:Arial, sans-serif; background-color:#404040;">
+  <tr>
+    <!-- LEFT COLUMN / SIDEBAR -->
+    <td width="39%" valign="top" align="center" style="background-color:#f2f2f2; padding:20px;">
+      <div style="margin: 40px 0 20px;"><br/>
+        <img src="trycalling.jpg" alt="Try Profile" width="150" height="180" style="border-radius: 50%;" />
+      </div>
+      <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)
+      <h>🎓 Student – IT Engineering</h>
+      </h2>
+      <h2 align="left" style="margin-top: 30px;">📞 Contact</h2>
+  <ul align="left" style="padding-left: 20px; line-height: 1.6;">
+    <li>📧 Email: sroytryneang1708@gmail.com</li>
+    <li>📱 Phone: +855-11739900, 10557399</li>
+    <li>🏠 Address: 21Eo, Street 44 D4, Dang Kao Commune, Dang Kao District, Phnom Penh City, Cambodia.</li>
+    <li>🎂 Date of Birth: 30th October 2002</li>
+    <li>🌏 Nationality: Khmer</li>
+    <li>🛂 Citizenship: Khmer</li>
+    <li>💍 Marital Status: Single</li>
+    <li>🚹 Sex: Male</li>
+    <li>📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.</li>
+    <li>🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/" target="_blank">LinkedIn</a></li>
+  </ul> 
+      <h3 align="left">🧠 Profile Summary</h3>
+      <p align="left">
+        Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems.
+      </p>
+      <h2 align="left" style="margin-top: 30px;">🏅 Skills</h2>
+      <h3 align="left">🏅 Skills</h3>
+      <ul align="left">
+        <li>Android (Kotlin, XML UI, Jetpack Compose)</li>
+        <li>Backend (Spring Boot, JWT, REST APIs)</li>
+        <li>Database (MySQL, JPA, MongoDB)</li>
+        <li>DevOps: Docker, GitHub Actions</li>
+        <li>CI/CD: Jenkins (basic)</li>
+        <li>Tools: Postman, Firebase, IntelliJ, VS Code</li>
+        <li>UI/UX: Figma, Material Design</li>
+      </ul>
+      <h3 style="margin-top: 30px;">📄 Download CV</h3>
+      <p>
+        <a href="https://example.com/your-cv.pdf" target="_blank">📎 View PDF</a>
+      </p>
+    </td>
+    <!-- RIGHT COLUMN / MAIN PANEL -->
+    <td width="65%" valign="top" style="padding: 30px;">
+      <h1 style="margin-top: 0;">👨‍💻 Android & Backend Developer</h1>
+      <p><em>💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em></p>
+      <h2>🔧 Tech Focus</h2>
+      <ul>
+        <li>📱 Android App Development (Kotlin, Java, CameraX, ML Kit)</li>
+        <li>🌐 Backend API (Spring Boot, JWT, MySQL, MongoDB)</li>
+        <li>☁️ Cloud & DevOps (Docker, Firebase, GitHub Actions)</li>
+        <li>🧠 AI Integrations (ChatGPT APIs, OCR, Translation)</li>
+      </ul>
+      <h2>🎓 Education & Certifications</h2>
+      <ul>
+        <li><strong>BSc in IT Engineering</strong> - Royal University of Phnom Penh</li>
+        <li><strong>Backend Developer Certificate</strong> - Piseth Java School</li>
+        <li><strong>General English Program</strong> - PUC</li>
+        <li><strong>Certified Android Developer</strong> - <a href="https://g.dev/trycoding">Google Developer Profile</a></li>
+      </ul>
+      <h2>💼 Work Experience</h2>
+      <p><strong>Hattha Bank — Android & Backend Developer</strong><br/>
+      <em>2021 – Present</em></p>
+      <ul>
+        <li>Developed Kotlin-based Android apps with Firebase & CameraX</li>
+        <li>Built Spring Boot APIs with MySQL, JWT authentication</li>
+        <li>Implemented CI/CD using Jenkins and Docker</li>
+        <li>Improved app stability through testing & analytics</li>
+      </ul>
+      <h2>🌟 Projects</h2>
+      <ul>
+        <li>📱 <strong>MLBB Event Tracker:</strong> Kotlin app with real-time event scheduling</li>
+        <li>📊 <strong>Rice Trading System:</strong> Spring Boot microservice for managing rice sales & reports</li>
+        <li>🤖 <strong>AI ChatBot:</strong> Android chat app using OpenAI's GPT API</li>
+        <li>🧮 <strong>HRM System:</strong> Fullstack HR system using Spring Boot + MongoDB</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<img src="trycalling.jpg" alt="Profile" width="150" height="180" style="border-radius:50%" />
 
-# 👨‍💻 Sroytry Neang (Try)
-### 🎓 Student – IT Engineering  
-### 📱 Android & Backend Developer
-
----
-
-</div>
-
-## 📞 Contact
-- **Email:** sroytryneang1708@gmail.com  
-- **Phone:** +855 11 739 900 / +855 10 557 399  
-- **Address:** St. 44 D4, Dang Kao, Phnom Penh  
-- **Date of Birth:** 30 Oct 2002  
-- **Nationality:** Khmer  
-- **Citizenship:** Khmer  
-- **Marital Status:** Single  
-- **Sex:** Male  
-- **Place of Birth:** Svay Antor, Prey Veng  
-- **LinkedIn:** [linkedin.com/in/sroytry-neang](https://www.linkedin.com/in/sroytry-neang-ab2048256/)
-
----
-
-## 🧠 Profile Summary
-Android & backend developer with 3+ years of experience in mobile and banking technology. Passionate about building secure, scalable systems using Kotlin, Spring Boot, and modern clean architecture. Enjoys optimizing performance and streamlining development workflows through automation.
-
----
-
-## 🏅 Skills
-
-### **Mobile Development**
-- Kotlin, Java, Jetpack Compose, XML UI  
-- CameraX, ML Kit  
-
-### **Backend Development**
-- Spring Boot, REST APIs, JWT  
-- MySQL, JPA, MongoDB  
-
-### **DevOps**
-- Docker, GitHub Actions  
-- Jenkins (basic CI/CD)  
-
-### **Tools**
-- Firebase, Postman  
-- IntelliJ IDEA, VS Code  
-
-### **UI / UX**
-- Figma, Material Design Framework  
-
----
-
-## 🔧 Tech Focus
-- Android App Development (CameraX, ML Kit, Kotlin DSL)  
-- Backend API Development (Spring Boot + JWT + SQL/NoSQL)  
-- Cloud & DevOps (Docker, GitHub Actions, Firebase Hosting)  
-- AI Integrations (ChatGPT API, OCR pipelines, translation flows)
-
----
-
-## 🎓 Education & Certifications
-- **BSc in IT Engineering** — Royal University of Phnom Penh  
-- **Backend Developer Certificate** — Piseth Java School  
-- **General English Program** — PUC  
-- **Certified Android Developer** — [Google Developer Profile](https://g.dev/trycoding)
-
----
-
-## 💼 Work Experience
-
-### **Hattha Bank — Android & Backend Developer**  
-*2021 – Present*
-- Designed & developed Android features using Kotlin, Firebase, CameraX  
-- Developed Spring Boot backend services with secure JWT authentication  
-- Integrated MySQL & MongoDB database layers using JPA & repository patterns  
-- Automated builds & deployment using Docker + Jenkins CI/CD  
-- Improved app stability through crash tracking, analytics, and UI/UX refinement  
-
----
-
-## 🌟 Projects
-
-### 📱 **MLBB Event Tracker**
-Real-time event scheduler & push-notification tracker (Kotlin, Firebase).
-
-### 📊 **Rice Trading System**
-Spring Boot microservice platform for rice sales, inventory, reporting.
-
-### 🤖 **AI ChatBot App**
-Android chat experience powered by OpenAI GPT API.
-
-### 🧮 **HRM System**
-Custom HR management system using Spring Boot + MongoDB + REST APIs.
-
----
-
-## 📄 Download CV
-📎 **PDF Version:** <https://example.com/your-cv.pdf>
-
----
-
-<div align="center">
-
-### ⭐ If you like this profile, feel free to star the repository!
-
-</div>
 
 
 
