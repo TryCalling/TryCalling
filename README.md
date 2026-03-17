@@ -1,32 +1,34 @@
-<table style="width:100%; table-layout:fixed; font-family:Arial, sans-serif; background-color:#404040;">
+
+<table style="width:100%; table-layout:fixed; font-family:Arial, sans-serif; background-color:#f4f4f4;">
   <tr>
     <!-- LEFT COLUMN / SIDEBAR -->
     <td width="39%" valign="top" align="center" style="background-color:#f2f2f2; padding:20px;">
-      <div style="margin: 40px 0 20px;"><br/>
+      <div style="margin: 40px 0 20px;">
         <img src="trycalling.jpg" alt="Try Profile" width="150" height="180" style="border-radius: 50%;" />
       </div>
-      <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)
-      <h>🎓 Student – IT Engineering</h>
-      </h2>
-      <h2 align="left" style="margin-top: 30px;">📞 Contact</h2>
-  <ul align="left" style="padding-left: 20px; line-height: 1.6;">
-    <li>📧 Email: sroytryneang1708@gmail.com</li>
-    <li>📱 Phone: +855-11739900, 10557399</li>
-    <li>🏠 Address: 21Eo, Street 44 D4, Dang Kao Commune, Dang Kao District, Phnom Penh City, Cambodia.</li>
-    <li>🎂 Date of Birth: 30th October 2002</li>
-    <li>🌏 Nationality: Khmer</li>
-    <li>🛂 Citizenship: Khmer</li>
-    <li>💍 Marital Status: Single</li>
-    <li>🚹 Sex: Male</li>
-    <li>📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang District, Prey Vang Province.</li>
-    <li>🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/" target="_blank">LinkedIn</a></li>
-  </ul> 
-      <h3 align="left">🧠 Profile Summary</h3>
-      <p align="left">
-        Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems.
+      <h2 style="margin-bottom: 5px;">👨‍💻 Sroytry Neang (Try)</h2>
+      <h3>🎓 Student – IT Engineering</h3>
+
+      <h3 align="left" style="margin-top: 30px;">📞 Contact</h3>
+      <ul align="left" style="padding-left: 20px; line-height: 1.6;">
+        <li>📧 Email: <a href="mailto:sroytryneang1708@gmail.com">sroytryneang1708@gmail.com</a></li>
+        <li>📱 Phone: +855-11739900, 10557399</li>
+        <li>🏠 Address: 21Eo, Street 44 D4, Dang Kao Commune, Phnom Penh, Cambodia</li>
+        <li>🎂 Date of Birth: 30th October 2002</li>
+        <li>🌏 Nationality: Khmer</li>
+        <li>🛂 Citizenship: Khmer</li>
+        <li>💍 Marital Status: Single</li>
+        <li>🚹 Sex: Male</li>
+        <li>📍 Place of Birth: Pochemtam Village, Svay Antor Commune, Prey Vang Province</li>
+        <li>🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/" target="_blank">LinkedIn</a></li>
+      </ul>
+
+      <h3 style="margin-top: 30px;">🧠 Profile Summary</h3>
+      <p>
+        Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems. Focused on delivering impactful, user-centric solutions while continuing to expand my technical skills and contribute to the tech community.
       </p>
-      <h2 align="left" style="margin-top: 30px;">🏅 Skills</h2>
-      <h3 align="left">🏅 Skills</h3>
+
+      <h3 style="margin-top: 30px;">🏅 Skills</h3>
       <ul align="left">
         <li>Android (Kotlin, XML UI, Jetpack Compose)</li>
         <li>Backend (Spring Boot, JWT, REST APIs)</li>
@@ -36,31 +38,45 @@
         <li>Tools: Postman, Firebase, IntelliJ, VS Code</li>
         <li>UI/UX: Figma, Material Design</li>
       </ul>
+
       <h3 style="margin-top: 30px;">📄 Download CV</h3>
-      <p>
-        <a href="https://example.com/your-cv.pdf" target="_blank">📎 View PDF</a>
-      </p>
+      <p><a href="https://example.com/your-cv.pdf" target="_blank">📎 View PDF</a></p>
     </td>
+
     <!-- RIGHT COLUMN / MAIN PANEL -->
     <td width="65%" valign="top" style="padding: 30px;">
       <h1 style="margin-top: 0;">👨‍💻 Android & Backend Developer</h1>
       <p><em>💻 Kotlin, Java, Spring Boot | 🤖 AI Mobile App Builder</em></p>
-      <h2>🔧 Tech Focus</h2>
+
+      <h3 style="margin-top: 30px;">🎯 Personal Branding</h3>
+      <p style="color: #555;">I believe in leveraging technology to create solutions that empower businesses and users alike. My focus is on building clean, scalable architectures, and creating seamless user experiences. I aim to work on projects that not only challenge me but also make a positive impact on society. Innovation and continuous learning are core values I bring to all my endeavors.</p>
+
+      <h3 style="margin-top: 30px;">🏆 Achievements</h3>
+      <ul align="left" style="padding-left: 20px;">
+        <li>🏅 Developed a mobile banking app that increased user retention by 25% through improved performance and UI/UX design.</li>
+        <li>📈 Improved server response times by 30% in the Rice Trading System by optimizing backend architecture and database queries.</li>
+        <li>🏆 Awarded "Best Innovation in Android Development" at Royal University of Phnom Penh for creating an Android-based inventory management system.</li>
+        <li>🔧 Contributed to over 5 open-source Android libraries that are actively used by developers worldwide.</li>
+      </ul>
+
+      <h3 style="margin-top: 30px;">🔧 Tech Focus</h3>
       <ul>
         <li>📱 Android App Development (Kotlin, Java, CameraX, ML Kit)</li>
         <li>🌐 Backend API (Spring Boot, JWT, MySQL, MongoDB)</li>
         <li>☁️ Cloud & DevOps (Docker, Firebase, GitHub Actions)</li>
         <li>🧠 AI Integrations (ChatGPT APIs, OCR, Translation)</li>
       </ul>
-      <h2>🎓 Education & Certifications</h2>
+
+      <h3 style="margin-top: 30px;">🎓 Education & Certifications</h3>
       <ul>
         <li><strong>BSc in IT Engineering</strong> - Royal University of Phnom Penh</li>
         <li><strong>Backend Developer Certificate</strong> - Piseth Java School</li>
         <li><strong>General English Program</strong> - PUC</li>
-        <li><strong>Certified Android Developer</strong> - <a href="https://g.dev/trycoding">Google Developer Profile</a></li>
+        <li><strong>Certified Android Developer</strong> - <a href="https://g.dev/trycoding" target="_blank">Google Developer Profile</a></li>
       </ul>
-      <h2>💼 Work Experience</h2>
-      <p><strong>Hattha Bank — Android & Backend Developer</strong><br/>
+
+      <h3 style="margin-top: 30px;">💼 Work Experience</h3>
+      <p><strong>Hattha Bank — Android & Backend Developer</strong><br />
       <em>2021 – Present</em></p>
       <ul>
         <li>Developed Kotlin-based Android apps with Firebase & CameraX</li>
@@ -68,23 +84,33 @@
         <li>Implemented CI/CD using Jenkins and Docker</li>
         <li>Improved app stability through testing & analytics</li>
       </ul>
-      <h2>🌟 Projects</h2>
+
+      <h3 style="margin-top: 30px;">🌟 Projects</h3>
       <ul>
         <li>📱 <strong>MLBB Event Tracker:</strong> Kotlin app with real-time event scheduling</li>
         <li>📊 <strong>Rice Trading System:</strong> Spring Boot microservice for managing rice sales & reports</li>
         <li>🤖 <strong>AI ChatBot:</strong> Android chat app using OpenAI's GPT API</li>
         <li>🧮 <strong>HRM System:</strong> Fullstack HR system using Spring Boot + MongoDB</li>
       </ul>
+
+      <h3 style="margin-top: 30px;">🧠 Soft Skills</h3>
+      <ul align="left" style="padding-left: 20px;">
+        <li>🔄 Adaptability: Able to quickly adjust to new technologies and challenges, ensuring successful project outcomes.</li>
+        <li>💬 Communication: Strong verbal and written communication skills for presenting ideas clearly to both technical and non-technical stakeholders.</li>
+        <li>📈 Problem-Solving: Known for finding innovative solutions to complex problems and improving processes within teams.</li>
+        <li>⏳ Time Management: Proficient at managing multiple projects and deadlines simultaneously, ensuring all tasks are delivered on time.</li>
+      </ul>
+
+      <h3 style="margin-top: 30px;">📂 Portfolio</h3>
+      <ul align="left" style="padding-left: 20px;">
+        <li>📱 <a href="https://github.com/trycalling/mlbb-tracker" target="_blank"><strong>MLBB Event Tracker App</strong></a></li>
+        <li>📦 <a href="https://github.com/trycalling/rice-trading" target="_blank"><strong>Rice Trading System (Spring Boot Microservices)</strong></a></li>
+        <li>🤖 <a href="https://github.com/trycalling/ai-chat-app" target="_blank"><strong>AI ChatBot Android App</strong></a></li>
+        <li>🧮 <a href="https://github.com/trycalling/hrm-system" target="_blank"><strong>HRM System (Spring Boot + MongoDB)</strong></a></li>
+      </ul>
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
 
 
 
