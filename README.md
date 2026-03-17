@@ -23,7 +23,7 @@
       </ul>
 
       <h3 align="left" style="margin-top: 30px;">🧠 Profile Summary</h3>
-      <p>
+      <p align="left">
         Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems. Focused on delivering impactful, user-centric solutions while continuing to expand my technical skills and contribute to the tech community.
       </p>
 
@@ -68,14 +68,14 @@
 
       <h3 style="margin-top: 30px;">🎓 Education & Certifications</h3>
       <ul>
-        <li><strong>BSc in IT Engineering</strong> - Royal University of Phnom Penh</li>
-        <li><strong>Backend Developer Certificate</strong> - Piseth Java School</li>
-        <li><strong>General English Program</strong> - PUC</li>
-        <li><strong>Certified Android Developer</strong> - <a href="https://g.dev/trycoding">Google Developer Profile</a></li>
+        <li><strong>BSc in IT Engineering</strong> – Royal University of Phnom Penh</li>
+        <li><strong>Backend Developer Certificate</strong> – Piseth Java School</li>
+        <li><strong>General English Program</strong> – PUC</li>
+        <li><strong>Certified Android Developer</strong> – <a href="https://g.dev/trycoding">Google Developer Profile</a></li>
       </ul>
 
       <h3 style="margin-top: 30px;">💼 Work Experience</h3>
-      <p><strong>Hattha Bank — Android & Backend Developer</strong><br/>
+      <p><strong>Hattha Bank — Android & Backend Developer</strong><br />
       <em>2021 – Present</em></p>
       <ul>
         <li>Developed Kotlin-based Android apps with Firebase & CameraX</li>
