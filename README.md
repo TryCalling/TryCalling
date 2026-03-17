@@ -1,4 +1,3 @@
-
 <table style="width:100%; table-layout:fixed; font-family:Arial, sans-serif; background-color:#f4f4f4;">
   <tr>
     <!-- LEFT COLUMN / SIDEBAR -->
@@ -23,12 +22,12 @@
         <li>🔗 <a href="https://www.linkedin.com/in/sroytry-neang-ab2048256/" target="_blank">LinkedIn</a></li>
       </ul>
 
-      <h3 style="margin-top: 30px;">🧠 Profile Summary</h3>
+      <h3 align="left" style="margin-top: 30px;">🧠 Profile Summary</h3>
       <p>
         Android & backend developer with 3+ years of experience maintaining banking systems and building secure, scalable applications. Passionate about clean architecture, performance, and innovation in Kotlin and Spring Boot ecosystems. Focused on delivering impactful, user-centric solutions while continuing to expand my technical skills and contribute to the tech community.
       </p>
 
-      <h3 style="margin-top: 30px;">🏅 Skills</h3>
+      <h3 align="left" style="margin-top: 30px;">🏅 Skills</h3>
       <ul align="left">
         <li>Android (Kotlin, XML UI, Jetpack Compose)</li>
         <li>Backend (Spring Boot, JWT, REST APIs)</li>
@@ -72,11 +71,11 @@
         <li><strong>BSc in IT Engineering</strong> - Royal University of Phnom Penh</li>
         <li><strong>Backend Developer Certificate</strong> - Piseth Java School</li>
         <li><strong>General English Program</strong> - PUC</li>
-        <li><strong>Certified Android Developer</strong> - <a href="https://g.dev/trycoding" target="_blank">Google Developer Profile</a></li>
+        <li><strong>Certified Android Developer</strong> - <a href="https://g.dev/trycoding">Google Developer Profile</a></li>
       </ul>
 
       <h3 style="margin-top: 30px;">💼 Work Experience</h3>
-      <p><strong>Hattha Bank — Android & Backend Developer</strong><br />
+      <p><strong>Hattha Bank — Android & Backend Developer</strong><br/>
       <em>2021 – Present</em></p>
       <ul>
         <li>Developed Kotlin-based Android apps with Firebase & CameraX</li>
@@ -95,23 +94,22 @@
 
       <h3 style="margin-top: 30px;">🧠 Soft Skills</h3>
       <ul align="left" style="padding-left: 20px;">
-        <li>🔄 Adaptability: Able to quickly adjust to new technologies and challenges, ensuring successful project outcomes.</li>
-        <li>💬 Communication: Strong verbal and written communication skills for presenting ideas clearly to both technical and non-technical stakeholders.</li>
-        <li>📈 Problem-Solving: Known for finding innovative solutions to complex problems and improving processes within teams.</li>
-        <li>⏳ Time Management: Proficient at managing multiple projects and deadlines simultaneously, ensuring all tasks are delivered on time.</li>
+        <li>🔄 **Adaptability**: Able to quickly adjust to new technologies and challenges, ensuring successful project outcomes.</li>
+        <li>💬 **Communication**: Strong verbal and written communication skills for presenting ideas clearly to both technical and non-technical stakeholders.</li>
+        <li>📈 **Problem-Solving**: Known for finding innovative solutions to complex problems and improving processes within teams.</li>
+        <li>⏳ **Time Management**: Proficient at managing multiple projects and deadlines simultaneously, ensuring all tasks are delivered on time.</li>
       </ul>
 
       <h3 style="margin-top: 30px;">📂 Portfolio</h3>
       <ul align="left" style="padding-left: 20px;">
-        <li>📱 <a href="https://github.com/trycalling/mlbb-tracker" target="_blank"><strong>MLBB Event Tracker App</strong></a></li>
-        <li>📦 <a href="https://github.com/trycalling/rice-trading" target="_blank"><strong>Rice Trading System (Spring Boot Microservices)</strong></a></li>
-        <li>🤖 <a href="https://github.com/trycalling/ai-chat-app" target="_blank"><strong>AI ChatBot Android App</strong></a></li>
-        <li>🧮 <a href="https://github.com/trycalling/hrm-system" target="_blank"><strong>HRM System (Spring Boot + MongoDB)</strong></a></li>
+        <li>📱 **[MLBB Event Tracker App](https://github.com/trycalling/mlbb-tracker)**</li>
+        <li>📦 **[Rice Trading System (Spring Boot Microservices)](https://github.com/trycalling/rice-trading)**</li>
+        <li>🤖 **[AI ChatBot Android App](https://github.com/trycalling/ai-chat-app)**</li>
+        <li>🧮 **[HRM System (Spring Boot + MongoDB)](https://github.com/trycalling/hrm-system)**</li>
       </ul>
     </td>
   </tr>
 </table>
-
 
 
 
