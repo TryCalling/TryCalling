@@ -80,16 +80,16 @@ IT Engineering graduate with hands-on experience in banking system support, back
 ### Featured Repositories
 
 - [bankops-reconciliation-platform](https://github.com/TryCalling/bankops-reconciliation-platform) - Production-style banking reconciliation platform with FastAPI, Celery, PostgreSQL, Redis, Docker, and Kubernetes
-- [devops-learning-lab](https://github.com/TryCalling/devops-learning-lab) - Spring Boot, Docker, CI/CD, and Kubernetes practice repository
 - [bankops-release-control-platform](https://github.com/TryCalling/bankops-release-control-platform) - DevOps release control platform for SIT/UAT/PROD approvals, promotion, rollback plans, and GitOps manifests
 - [devsecops-pipeline-lab](https://github.com/TryCalling/devsecops-pipeline-lab) - DevSecOps lab with secure CI/CD, SAST, dependency scanning, container scanning, SBOM generation, and hardened Kubernetes manifests
+- [my-portfolio](https://github.com/TryCalling/my-portfolio) - Personal portfolio website presenting projects, technical direction, and career focus
 
 ### Currently Learning
 
 - Kubernetes deployment concepts and cluster basics
-- Jenkins and CI/CD workflow design
+- Jenkins, GitHub Actions, and CI/CD workflow design
 - Linux operations, log analysis, and service monitoring
-- Secure deployment and observability practices
+- Secure deployment, DevSecOps, and observability practices
 
     </td>
   </tr>
