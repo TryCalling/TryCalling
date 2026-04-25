@@ -79,10 +79,10 @@ IT Engineering graduate with hands-on experience in banking system support, back
 
 ### Featured Repositories
 
-- [ProjectMB-PPv1](https://github.com/TryCalling/ProjectMB-PPv1) - Kotlin mobile project
-- [flutter_noted_app](https://github.com/TryCalling/flutter_noted_app) - Flutter notes application
-- [Source_code_ProjectFinance](https://github.com/TryCalling/Source_code_ProjectFinance) - Finance application source code
-- [admin_portal_php](https://github.com/TryCalling/admin_portal_php) - PHP CRUD admin portal
+- [devops-learning-lab](https://github.com/TryCalling/devops-learning-lab) - Spring Boot, Docker, CI/CD, and Kubernetes practice repository
+- [e-com-api](https://github.com/TryCalling/e-com-api) - Backend API project for learning service design and integration
+- [ProjectMB-PPv1](https://github.com/TryCalling/ProjectMB-PPv1) - Kotlin mobile application project
+- [admin_portal_php](https://github.com/TryCalling/admin_portal_php) - PHP CRUD admin portal and dashboard management
 
 ### Currently Learning
 
