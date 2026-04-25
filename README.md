@@ -81,7 +81,7 @@ IT Engineering graduate with hands-on experience in banking system support, back
 
 - [bankops-reconciliation-platform](https://github.com/TryCalling/bankops-reconciliation-platform) - Production-style banking reconciliation platform with FastAPI, Celery, PostgreSQL, Redis, Docker, and Kubernetes
 - [devops-learning-lab](https://github.com/TryCalling/devops-learning-lab) - Spring Boot, Docker, CI/CD, and Kubernetes practice repository
-- [bankops-automation](https://github.com/TryCalling/bankops-automation) - Python automation package for transaction file validation, processing, and Telegram alerts
+- [bankops-release-control-platform](https://github.com/TryCalling/bankops-release-control-platform) - DevOps release control platform for SIT/UAT/PROD approvals, promotion, rollback plans, and GitOps manifests
 - [ProjectMB-PPv1](https://github.com/TryCalling/ProjectMB-PPv1) - Kotlin mobile application project
 
 ### Currently Learning
